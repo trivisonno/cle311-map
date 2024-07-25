@@ -11,6 +11,10 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/sql-wasm.js"></script>
+
+<!-- Load Esri Leaflet from CDN -->
+<script src="https://unpkg.com/esri-leaflet@^3.0.9/dist/esri-leaflet.js"></script>
+<script src="https://unpkg.com/esri-leaflet-vector@4.0.0/dist/esri-leaflet-vector.js"></script>
     <style>
         #map { height: 500px; }
     </style>
@@ -40,14 +44,29 @@
     <script>
         let geojsonData;
         let db;
-        let map = L.map('map').setView([0, 0], 2);
+        let map = L.map('map').setView([41.4993, -81.6944], 11); // Initial view set to Cleveland, adjust as needed
         let markers = L.markerClusterGroup();
         let allFeaturesLayer;
 
-        // Add OpenStreetMap tile layer
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        // Define tile layers
+        const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '© OpenStreetMap'
+        });
+
+        const aerialLayer = L.esri.tiledMapLayer({
+			url: 'https://gis.cuyahogacounty.us/server/rest/services/IMAGERY/2022_Fall_Aerial/MapServer/',
+			zoomOffset: -10,
+			maxZoom: 21,
+	});
+
+        // Add default tile layer (OpenStreetMap)
+        osmLayer.addTo(map);
+
+        // Add layer control
+        L.control.layers({
+            'OpenStreetMap': osmLayer,
+            'Fall \'23 aerials': aerialLayer
         }).addTo(map);
 
         function loadGeoJSON() {
