@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLE311 Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/sql-wasm.js"></script>
+    <style>
+        #map { height: 500px; }
+    </style>
+</head>
+<body class="bg-light">
+
+    <div class="container text-center mt-5">
+        <h1>CLE311 Map</h1>
+        <!-- <div class="form-group mt-4">
+            <button class="btn btn-primary mt-2" onclick="loadGeoJSON()">Load GeoJSON</button>
+        </div> -->
+        <div class="form-group">
+            <label for="caseTypeSelect">Filter by CaseType:</label>
+            <select class="form-control" id="caseTypeSelect" onchange="filterGeoJSON()">
+                <option value="all">All (0)</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="map" class="mt-4"></div>
+    </div>
+
+    <textarea id="query" rows="4" cols="50" hidden>SELECT json_extract(properties, '$.CaseType') AS value, COUNT(*) as count FROM features GROUP BY value ORDER BY count DESC;</textarea>
+    <pre id="result" hidden></pre>
+
+    <script>
+        let geojsonData;
+        let db;
+        let map = L.map('map').setView([0, 0], 2);
+        let markers = L.markerClusterGroup();
+        let allFeaturesLayer;
+
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        function loadGeoJSON() {
+            fetch('311-2.geojson')
+                .then(response => response.json())
+                .then(data => {
+                    geojsonData = data;
+                    populateCaseTypeDropdown(geojsonData);
+                    displayMap(geojsonData);
+                    loadDatabase(geojsonData);
+                })
+                .catch(error => console.error('Error loading GeoJSON file:', error));
+        }
+
+        function displayMap(geojsonData) {
+            markers.clearLayers();
+            allFeaturesLayer = L.geoJSON(geojsonData, {
+                onEachFeature: function (feature, layer) {
+                    if (feature.properties) {
+                        const popupContent = createPopupContent(feature.properties);
+                        layer.bindPopup(popupContent);
+                    }
+                },
+                pointToLayer: function (feature, latlng) {
+                    return L.marker(latlng);
+                }
+            });
+            markers.addLayer(allFeaturesLayer);
+            map.addLayer(markers);
+            map.fitBounds(allFeaturesLayer.getBounds());
+        }
+
+        function createPopupContent(properties) {
+            const { CaseType, CaseID, OpenedDateTime, Location } = properties;
+            const date = new Date(parseInt(OpenedDateTime, 10)); // Parsing as milliseconds
+            const formattedDate = date.toLocaleString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: 'numeric',
+                hour12: true
+            });
+            return `
+                <strong>CaseType:</strong> ${CaseType}<br />
+                <strong>CaseID:</strong> ${CaseID}<br />
+                <strong>OpenedDateTime:</strong> ${formattedDate}<br />
+                <strong>Location:</strong> ${Location}
+            `;
+        }
+
+        function populateCaseTypeDropdown(geojsonData) {
+            const caseTypeCount = {};
+            geojsonData.features.forEach(feature => {
+                if (feature.properties && feature.properties.CaseType) {
+                    const caseType = feature.properties.CaseType;
+                    if (!caseTypeCount[caseType]) {
+                        caseTypeCount[caseType] = 0;
+                    }
+                    caseTypeCount[caseType]++;
+                }
+            });
+
+            const caseTypeSelect = document.getElementById('caseTypeSelect');
+            const sortedCaseTypes = Object.keys(caseTypeCount).sort((a, b) => caseTypeCount[b] - caseTypeCount[a]);
+
+            caseTypeSelect.options[0].text = `All (${geojsonData.features.length})`; // Update the 'All' option with total count
+
+            sortedCaseTypes.forEach(caseType => {
+                const option = document.createElement('option');
+                option.value = caseType;
+                option.text = `${caseType} (${caseTypeCount[caseType]})`;
+                caseTypeSelect.add(option);
+            });
+        }
+
+        function filterGeoJSON() {
+            const caseTypeSelect = document.getElementById('caseTypeSelect');
+            const selectedCaseType = caseTypeSelect.value;
+
+            markers.clearLayers();
+            if (selectedCaseType === 'all') {
+                markers.addLayer(allFeaturesLayer);
+            } else {
+                const filteredLayer = L.geoJSON(geojsonData, {
+                    filter: function(feature) {
+                        return feature.properties && feature.properties.CaseType === selectedCaseType;
+                    },
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties) {
+                            const popupContent = createPopupContent(feature.properties);
+                            layer.bindPopup(popupContent);
+                        }
+                    },
+                    pointToLayer: function (feature, latlng) {
+                        return L.marker(latlng);
+                    }
+                });
+                markers.addLayer(filteredLayer);
+            }
+            map.addLayer(markers);
+            if (markers.getLayers().length > 0) {
+                map.fitBounds(markers.getBounds());
+            }
+        }
+
+        function loadDatabase(geojsonData) {
+            const initSqlJs = window.initSqlJs;
+            initSqlJs({ locateFile: filename => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/${filename}` }).then(SQL => {
+                db = new SQL.Database();
+
+                // Create table and insert data
+                db.run("CREATE TABLE features (id INTEGER PRIMARY KEY, properties TEXT)");
+                const insertStmt = db.prepare("INSERT INTO features (properties) VALUES (?)");
+
+                geojsonData.features.forEach((feature, index) => {
+                    insertStmt.run([JSON.stringify(feature.properties)]);
+                });
+
+                insertStmt.free();
+            });
+        }
+
+        // Load the GeoJSON file on page load
+        window.onload = loadGeoJSON;
+    </script>
+
+</body>
+</html>
