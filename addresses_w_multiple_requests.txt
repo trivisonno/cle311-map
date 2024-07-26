@@ -1,0 +1,2467 @@
+Total addresses with multiple features: 583
+
+6714 Sebert Ave, Cleveland, 44105 (5 requests)
+28354, Electrical Issue, May 28, 2024, 02:29PM
+28359, Illegal Use of Property, May 28, 2024, 02:33PM
+28360, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 02:35PM
+28399, Tree Service, May 28, 2024, 03:16PM
+29221, Rental Inspection Complaint, May 30, 2024, 11:07AM
+
+3664 E 153Rd St, Cleveland, Oh, 44120 (5 requests)
+32978, Vacant Property, June 14, 2024, 05:05AM
+34814, Vacant Property, June 24, 2024, 11:06AM
+34815, Vacant Property Open to Entry, June 24, 2024, 11:07AM
+35145, Vacant Property Open to Entry, June 25, 2024, 06:21AM
+40040, Vacant Property, July 10, 2024, 02:15PM
+
+3592 W 50Th St, Cleveland, Oh, 44102 (5 requests)
+36232, Vacant Property, June 27, 2024, 02:44PM
+36233, Tree Service, June 27, 2024, 02:46PM
+36234, Vacant Property Open to Entry, June 27, 2024, 02:48PM
+36237, Illegal Dumping, June 27, 2024, 02:51PM
+36242, General Exterior Maintenance/Fence/Outbuildings, June 27, 2024, 03:02PM
+
+3643 E 117 St, Cleveland, 44105 (4 requests)
+24168, Vacant Property, May 15, 2024, 03:30PM
+24176, Collapsing Structure, May 15, 2024, 03:34PM
+30250, Illegal Dumping, June 03, 2024, 11:55AM
+30255, General Exterior Maintenance/Fence/Outbuildings, June 03, 2024, 12:00PM
+
+3211 W 61 St, Cleveland, 44102 (4 requests)
+25339, Vacant Property Open to Entry, May 20, 2024, 10:36AM
+26744, Vacant Property Open to Entry, May 22, 2024, 05:36PM
+27185, Illegal Dumping, May 23, 2024, 02:59PM
+30369, Vacant Property Open to Entry, June 03, 2024, 01:26PM
+
+3672 E 117 St, Cleveland, 44105 (4 requests)
+26085, Waste Cart Concerns, May 21, 2024, 02:35PM
+26239, Missed Refuse pick up, May 22, 2024, 08:14AM
+29237, Waste Cart Concerns, May 30, 2024, 11:20AM
+29258, Missing Recycling Welcome Packet, May 30, 2024, 11:33AM
+
+3503 Beyerle Rd, Cleveland, 44105 (4 requests)
+26653, Vacant and Distressed Property, May 22, 2024, 03:50PM
+26656, Rental Inspection Complaint, May 22, 2024, 03:52PM
+26848, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 09:20AM
+26858, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 09:28AM
+
+4472 E 158 St, Cleveland, 44128 (4 requests)
+27657, Vacant Property, May 24, 2024, 02:11PM
+28324, Vacant Property Open to Entry, May 28, 2024, 01:45PM
+29622, Vacant Property, May 31, 2024, 10:14AM
+29625, Vacant Property, May 31, 2024, 10:17AM
+
+11212 Knowlton Ave, Cleveland, 44106 (4 requests)
+28700, Vacant Property, May 29, 2024, 10:46AM
+28701, Vacant Property, May 29, 2024, 10:47AM
+29955, Vacant Property Open to Entry, May 31, 2024, 05:14PM
+29957, Vacant and Distressed Property, May 31, 2024, 05:17PM
+
+15325 Harvard Ave, Cleveland, Oh, 44128 (4 requests)
+31139, General Exterior Maintenance/Fence/Outbuildings, June 05, 2024, 10:05AM
+31142, Vacant Property, June 05, 2024, 10:07AM
+38510, Vacant Property Open to Entry, July 05, 2024, 09:44PM
+40132, Vacant Property Open to Entry, July 10, 2024, 11:00PM
+
+4925 Dalton Ave, Cleveland, Oh, 44127 (4 requests)
+33019, General Exterior Maintenance/Fence/Outbuildings, June 14, 2024, 09:41AM
+33020, Vacant and Distressed Property, June 14, 2024, 09:44AM
+34327, Vacant Property Open to Entry, June 21, 2024, 11:06AM
+35520, Vacant Property, June 25, 2024, 04:18PM
+
+8925 Hough Ave, Cleveland, Oh, 44106 (4 requests)
+33554, Plumbing Concern, June 19, 2024, 09:10AM
+38697, Rental Inspection Complaint, July 08, 2024, 08:50AM
+42774, Rental Inspection Complaint, July 17, 2024, 11:15AM
+42808, Rental Inspection Complaint, July 17, 2024, 11:36AM
+
+1193 E 113Th St, Cleveland, Oh, 44108 (4 requests)
+34109, Vacant Property Open to Entry, June 21, 2024, 12:10AM
+34778, Illegal Dumping, June 24, 2024, 10:09AM
+34788, Vacant Property, June 24, 2024, 10:15AM
+35144, Vacant Property Open to Entry, June 25, 2024, 06:18AM
+
+3316 E 139Th St, Cleveland, Oh, 44120 (4 requests)
+35094, General Exterior Maintenance/Fence/Outbuildings, June 24, 2024, 05:24PM
+35095, Vacant Property, June 24, 2024, 05:26PM
+35096, Vacant Property, June 24, 2024, 05:27PM
+41030, Vacant and Distressed Property, July 12, 2024, 01:36PM
+
+11309 Nelson Ave, Cleveland, Oh, 44105 (4 requests)
+42124, Waste Cart Concerns, July 16, 2024, 09:56AM
+42126, Waste Cart Concerns, July 16, 2024, 09:57AM
+42478, General Exterior Maintenance/Fence/Outbuildings, July 16, 2024, 04:46PM
+42480, Tree Service, July 16, 2024, 04:47PM
+
+7213 Hecker Ave, Cleveland, Oh, 44103 (4 requests)
+42153, Waste Cart Concerns, July 16, 2024, 10:19AM
+42154, Waste Cart Concerns, July 16, 2024, 10:20AM
+42156, Waste Cart Concerns, July 16, 2024, 10:21AM
+42159, Waste Cart Concerns, July 16, 2024, 10:22AM
+
+3683 E 103Rd St, Cleveland, Oh, 44105 (4 requests)
+42663, Debris in Street, July 17, 2024, 09:54AM
+42666, General Exterior Maintenance/Fence/Outbuildings, July 17, 2024, 09:59AM
+42667, Cart Pick Up, July 17, 2024, 10:00AM
+42668, Vacant Property, July 17, 2024, 10:03AM
+
+3675 E 55Th St, Cleveland, Oh, 44105 (4 requests)
+42825, Vacant and Distressed Property, July 17, 2024, 11:56AM
+42826, Illegal Dumping, July 17, 2024, 11:58AM
+42827, Vacant Property, July 17, 2024, 12:00PM
+42832, Vacant Property Open to Entry, July 17, 2024, 12:04PM
+
+5811 Franklin Blvd, Cleveland, Oh, 44102 (4 requests)
+42890, Waste Cart Concerns, July 17, 2024, 01:06PM
+42894, Cart Pick Up, July 17, 2024, 01:08PM
+42895, Waste Cart Concerns, July 17, 2024, 01:09PM
+44594, Cart Pick Up, July 22, 2024, 04:45PM
+
+11425 Glenboro Dr, Cleveland, Oh, 44105 (4 requests)
+42991, Tire Pick up, July 17, 2024, 03:18PM
+43439, Missed Refuse pick up, July 18, 2024, 02:27PM
+43444, Waste Cart Concerns, July 18, 2024, 02:31PM
+43446, Cart Pick Up, July 18, 2024, 02:32PM
+
+3207 Mapledale Ave, Cleveland, Oh, 44109 (4 requests)
+43275, Waste Cart Concerns, July 18, 2024, 11:09AM
+43276, Waste Cart Concerns, July 18, 2024, 11:10AM
+43278, Waste Cart Concerns, July 18, 2024, 11:11AM
+43281, Waste Cart Concerns, July 18, 2024, 11:11AM
+
+2913 E 126Th St, Cleveland, Oh, 44120 (4 requests)
+44219, Waste Cart Concerns, July 22, 2024, 09:30AM
+44220, Waste Cart Concerns, July 22, 2024, 09:31AM
+44223, Waste Cart Concerns, July 22, 2024, 09:35AM
+44225, Waste Cart Concerns, July 22, 2024, 09:36AM
+
+10206 Reno Ave, Cleveland, Oh, 44105 (4 requests)
+44398, Illegal Dumping, July 22, 2024, 12:29PM
+44399, Vacant Property Open to Entry, July 22, 2024, 12:30PM
+44401, General Exterior Maintenance/Fence/Outbuildings, July 22, 2024, 12:35PM
+44403, Cart Pick Up, July 22, 2024, 12:37PM
+
+3819 W 135Th St, Cleveland, Oh, 44111 (4 requests)
+44893, Cart Pick Up, July 23, 2024, 12:30PM
+44894, Cart Pick Up, July 23, 2024, 12:31PM
+44895, Waste Cart Concerns, July 23, 2024, 12:32PM
+44896, Waste Cart Concerns, July 23, 2024, 12:32PM
+
+14908 Thames Ave, Cleveland, 44110 (3 requests)
+23847, Missed Refuse pick up, May 15, 2024, 08:11AM
+23850, Recycling Opt-in Program, May 15, 2024, 08:13AM
+23855, Missing Recycling Welcome Packet, May 15, 2024, 08:18AM
+
+1233 E 80 St, Cleveland, 44103 (3 requests)
+24281, Vacant Property Open to Entry, May 15, 2024, 11:08PM
+25295, Vacant Property, May 20, 2024, 10:10AM
+25301, Vacant Property, May 20, 2024, 10:12AM
+
+9500 Raymond Ave, Cleveland, 44104 (3 requests)
+24453, Vacant Property Open to Entry, May 16, 2024, 11:13AM
+27531, Vacant Property Open to Entry, May 24, 2024, 11:09AM
+30331, Vacant Property Open to Entry, June 03, 2024, 01:03PM
+
+16715 Grovewood Ave, Cleveland, 44110 (3 requests)
+25155, Pothole Repair, May 18, 2024, 03:03PM
+28288, Waste Cart Concerns, May 28, 2024, 12:54PM
+28291, Missing Recycling Welcome Packet, May 28, 2024, 12:56PM
+
+1164 E 167 St, Cleveland, 44110 (3 requests)
+25460, Parks Maintenance, May 20, 2024, 12:44PM
+25461, Parks Maintenance, May 20, 2024, 12:46PM
+25463, Parks Maintenance, May 20, 2024, 12:48PM
+
+1453 E 116 St, Cleveland, 44106 (3 requests)
+26147, General Exterior Maintenance/Fence/Outbuildings, May 21, 2024, 04:00PM
+26148, Vacant Property, May 21, 2024, 04:01PM
+26150, Vacant Property Open to Entry, May 21, 2024, 04:02PM
+
+2323 W 3 St, Cleveland, 44113 (3 requests)
+26185, Graffiti Removal, May 21, 2024, 05:04PM
+26186, General Exterior Maintenance/Fence/Outbuildings, May 21, 2024, 05:09PM
+26187, Vacant Property, May 21, 2024, 05:12PM
+
+3302 Trowbridge Ave, Cleveland, 44109 (3 requests)
+26628, General Exterior Maintenance/Fence/Outbuildings, May 22, 2024, 03:28PM
+26630, Vacant Property, May 22, 2024, 03:30PM
+26632, Vacant Property Open to Entry, May 22, 2024, 03:31PM
+
+13509 Earlwood Rd, Cleveland, 44110 (3 requests)
+26694, Vacant and Distressed Property, May 22, 2024, 04:16PM
+26696, Vacant and Distressed Property, May 22, 2024, 04:18PM
+26836, Vacant Property Open to Entry, May 23, 2024, 09:05AM
+
+3398 E 123 St, Cleveland, 44120 (3 requests)
+26723, Vacant Property, May 22, 2024, 04:58PM
+26997, Vacant Property Open to Entry, May 23, 2024, 11:46AM
+29064, Vacant Property Open to Entry, May 30, 2024, 07:40AM
+
+1699 E 82 St, Cleveland, 44103 (3 requests)
+27074, Vacant Property, May 23, 2024, 12:59PM
+27080, Vacant Property Open to Entry, May 23, 2024, 01:03PM
+27079, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 01:02PM
+
+3325 Scranton Rd, Cleveland, 44109 (3 requests)
+27619, Vacant Property, May 24, 2024, 01:10PM
+27623, Vacant Property Open to Entry, May 24, 2024, 01:12PM
+27625, General Exterior Maintenance/Fence/Outbuildings, May 24, 2024, 01:14PM
+
+11623 Buckeye Rd, Cleveland, 44120 (3 requests)
+27943, Waste Cart Concerns, May 28, 2024, 09:05AM
+27947, Waste Cart Concerns, May 28, 2024, 09:08AM
+27949, Recycling Opt-in Program, May 28, 2024, 09:11AM
+
+1862 Haldane Rd, Cleveland, 44112 (3 requests)
+28064, Vacant Property, May 28, 2024, 10:28AM
+28078, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 10:32AM
+28083, Cart Pick Up, May 28, 2024, 10:33AM
+
+3448 E 149 St, Cleveland, 44120 (3 requests)
+28251, Cart Pick Up, May 28, 2024, 12:25PM
+28253, Cart Pick Up, May 28, 2024, 12:26PM
+28255, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 12:29PM
+
+16301 Walden Ave, Cleveland, 44128 (3 requests)
+28495, Vacant Property, May 28, 2024, 05:12PM
+30233, Vacant Property, June 03, 2024, 11:41AM
+30237, Vacant and Distressed Property, June 03, 2024, 11:45AM
+
+9013 Empire Ave, Cleveland, Oh, 44108 (3 requests)
+31230, Vacant Property, June 05, 2024, 11:15AM
+34296, Vacant Property, June 21, 2024, 10:23AM
+37758, Vacant and Distressed Property, July 03, 2024, 08:08AM
+
+380 Eddy Rd, Cleveland, Oh, 44108 (3 requests)
+31326, Waste Cart Concerns, June 05, 2024, 12:49PM
+31334, General Exterior Maintenance/Fence/Outbuildings, June 05, 2024, 12:56PM
+38630, Waste Cart Concerns, July 08, 2024, 02:59AM
+
+3333 Woodbridge Ave, Cleveland, Oh, 44109 (3 requests)
+31506, General Exterior Maintenance/Fence/Outbuildings, June 05, 2024, 05:22PM
+31507, Vacant Property, June 05, 2024, 05:22PM
+31508, Illegal Dumping, June 05, 2024, 05:24PM
+
+13502 Crennell Ave, Cleveland, Oh, 44105 (3 requests)
+31564, Illegal Dumping, June 06, 2024, 08:55AM
+31565, Vacant Property, June 06, 2024, 08:56AM
+31566, Vacant Property Open to Entry, June 06, 2024, 08:57AM
+
+14505 Harvard Ave, Cleveland, Oh, 44128 (3 requests)
+31658, Waste Cart Concerns, June 06, 2024, 10:23AM
+31659, Waste Cart Concerns, June 06, 2024, 10:24AM
+31758, Tree Service, June 06, 2024, 12:21PM
+
+601 Erieside Ave, Cleveland, Oh, 44114 (3 requests)
+31663, Playground Equipment, June 06, 2024, 10:35AM
+31665, Damaged Guardrail, June 06, 2024, 10:36AM
+42298, Smoke Detector/Fire Alarm, July 16, 2024, 12:51PM
+
+3277 W 23Rd Pl, Cleveland, Oh, 44109 (3 requests)
+31749, General Exterior Maintenance/Fence/Outbuildings, June 06, 2024, 12:13PM
+38961, Vacant Property, July 08, 2024, 02:42PM
+44769, Vacant Property, July 23, 2024, 09:40AM
+
+4105 Riverside Ave, Cleveland, Oh, 44109 (3 requests)
+31981, Missed Refuse pick up, June 07, 2024, 06:37AM
+36382, Missed Refuse pick up, June 28, 2024, 07:16AM
+40667, Missed Refuse pick up, July 11, 2024, 08:17PM
+
+9122 Parkgate Ave, Cleveland, Oh, 44108 (3 requests)
+32008, Vacant Property Open to Entry, June 07, 2024, 08:39AM
+42357, Vacant Property Open to Entry, July 16, 2024, 02:45PM
+42370, Vacant Property, July 16, 2024, 02:53PM
+
+6719 Lansing Ave, Cleveland, Oh, 44105 (3 requests)
+32347, Waste Cart Concerns, June 07, 2024, 03:36PM
+32361, Missing Recycling Welcome Packet, June 07, 2024, 03:54PM
+38229, Scheduled Bulk Pick up, July 05, 2024, 09:04AM
+
+12701 Shaker Blvd, Cleveland, Oh, 44120 (3 requests)
+32934, Electrical Issue, June 13, 2024, 05:53AM
+38799, Rental Inspection Complaint, July 08, 2024, 10:51AM
+40021, Rental Inspection Complaint, July 10, 2024, 01:35PM
+
+2167 W 98Th St, Cleveland, Oh, 44102 (3 requests)
+33665, Vacant Property, June 19, 2024, 02:52PM
+36330, Vacant Property Open to Entry, June 27, 2024, 07:09PM
+36331, Vacant Property, June 27, 2024, 07:10PM
+
+3293 E 126Th St, Cleveland, Oh, 44120 (3 requests)
+33690, Vacant Property, June 19, 2024, 04:31PM
+44144, Vacant Property, July 22, 2024, 06:08AM
+44309, Vacant Property, July 22, 2024, 10:53AM
+
+3616 Lloyd Rd, Cleveland, Oh, 44111 (3 requests)
+33943, Waste Cart Concerns, June 20, 2024, 12:57PM
+33946, Missed Refuse pick up, June 20, 2024, 12:59PM
+33947, Missing Recycling Welcome Packet, June 20, 2024, 01:01PM
+
+3153 Becket Rd, Cleveland, Oh, 44120 (3 requests)
+34077, Vacant Property, June 20, 2024, 04:39PM
+34079, General Exterior Maintenance/Fence/Outbuildings, June 20, 2024, 04:43PM
+34080, Vacant Property, June 20, 2024, 04:45PM
+
+1500 E 75Th St, Cleveland, Oh, 44103 (3 requests)
+34871, Vacant Property, June 24, 2024, 11:57AM
+34872, Vacant Property, June 24, 2024, 11:59AM
+34875, General Exterior Maintenance/Fence/Outbuildings, June 24, 2024, 12:03PM
+
+9109 Blaine Ave, Cleveland, Oh, 44106 (3 requests)
+34906, Vacant Property Open to Entry, June 24, 2024, 01:07PM
+34909, Vacant and Distressed Property, June 24, 2024, 01:10PM
+40079, Vacant Property Open to Entry, July 10, 2024, 03:38PM
+
+13712 Kinsman Rd, Cleveland, Oh, 44120 (3 requests)
+35059, Vacant Property, June 24, 2024, 04:32PM
+35062, General Exterior Maintenance/Fence/Outbuildings, June 24, 2024, 04:38PM
+35083, Vacant Property, June 24, 2024, 04:54PM
+
+9821 Gambier Ave, Cleveland, Oh, 44102 (3 requests)
+35691, Vacant Property, June 26, 2024, 09:44AM
+35692, Vacant Property, June 26, 2024, 09:47AM
+35695, Illegal Dumping, June 26, 2024, 09:50AM
+
+5814 Bonna Ave, Cleveland, Oh, 44103 (3 requests)
+35969, Vacant Property, June 26, 2024, 05:18PM
+35972, Vacant Property, June 26, 2024, 05:19PM
+35973, Fallen or Hanging Branch, June 26, 2024, 05:21PM
+
+5802 Bonna Ave, Cleveland, Oh, 44103 (3 requests)
+35978, Vacant Property Open to Entry, June 26, 2024, 05:28PM
+35979, Vacant Property, June 26, 2024, 05:29PM
+35981, General Exterior Maintenance/Fence/Outbuildings, June 26, 2024, 05:32PM
+
+3662 W 104Th St, Cleveland, Oh, 44111 (3 requests)
+36098, Waste Cart Concerns, June 27, 2024, 09:25AM
+36111, Waste Cart Concerns, June 27, 2024, 09:38AM
+36129, Cart Pick Up, June 27, 2024, 10:08AM
+
+13805 Earlwood Rd, Cleveland, Oh, 44110 (3 requests)
+36164, Vacant Property, June 27, 2024, 11:24AM
+36166, Vacant Property, June 27, 2024, 11:28AM
+43689, Tree Service, July 19, 2024, 09:04AM
+
+8413 Bancroft Ave, Cleveland, Oh, 44105 (3 requests)
+36200, Waste Cart Concerns, June 27, 2024, 12:34PM
+36201, Cart Pick Up, June 27, 2024, 12:35PM
+36225, Missing Recycling Welcome Packet, June 27, 2024, 02:16PM
+
+5111 Herman Ave, Cleveland, Oh, 44102 (3 requests)
+36278, Illegal Dumping, June 27, 2024, 04:15PM
+36280, General Exterior Maintenance/Fence/Outbuildings, June 27, 2024, 04:16PM
+36281, Vacant Property Open to Entry, June 27, 2024, 04:18PM
+
+12104 Castlewood Ave, Cleveland, Oh, 44108 (3 requests)
+36314, Vacant Property Open to Entry, June 27, 2024, 06:20PM
+36316, General Exterior Maintenance/Fence/Outbuildings, June 27, 2024, 06:23PM
+36317, Vacant Property, June 27, 2024, 06:24PM
+
+556 E 118Th St, Cleveland, Oh, 44108 (3 requests)
+36385, Illegal Dumping, June 28, 2024, 07:53AM
+36386, Vacant Property, June 28, 2024, 07:55AM
+45712, Illegal Dumping, July 25, 2024, 09:48AM
+
+3221 W 41St St, Cleveland, Oh, 44109 (3 requests)
+36439, Vacant Property Open to Entry, June 28, 2024, 09:14AM
+37172, Vacant Property, July 01, 2024, 04:41PM
+45400, Vacant Property Open to Entry, July 24, 2024, 12:52PM
+
+3712 Burten Ct, Cleveland, Oh, 44115 (3 requests)
+36454, Waste Cart Concerns, June 28, 2024, 09:52AM
+36456, Waste Cart Concerns, June 28, 2024, 09:54AM
+36457, Missing Recycling Welcome Packet, June 28, 2024, 09:56AM
+
+3168 E 49Th St, Cleveland, Oh, 44127 (3 requests)
+37004, Vacant Property Open to Entry, July 01, 2024, 01:15PM
+38940, Vacant Property Open to Entry, July 08, 2024, 02:11PM
+38942, General Exterior Maintenance/Fence/Outbuildings, July 08, 2024, 02:12PM
+
+3412 Riverside Ave, Cleveland, Oh, 44109 (3 requests)
+37146, Vacant Property, July 01, 2024, 04:11PM
+39231, Vacant Property Open to Entry, July 09, 2024, 10:16AM
+39895, Vacant Property Open to Entry, July 10, 2024, 11:31AM
+
+1344 Ansel Rd, Cleveland, Oh, 44106 (3 requests)
+37343, Waste Cart Concerns, July 02, 2024, 09:58AM
+37348, Waste Cart Concerns, July 02, 2024, 10:00AM
+37368, Recycling Opt-in Program, July 02, 2024, 10:18AM
+
+5812 Portage Ave, Cleveland, Oh, 44127 (3 requests)
+37384, Vacant Property, July 02, 2024, 10:34AM
+37386, Vacant and Distressed Property, July 02, 2024, 10:36AM
+37389, Vacant Property Open to Entry, July 02, 2024, 10:39AM
+
+3086 W 105Th St, Cleveland, Oh, 44111 (3 requests)
+37838, Waste Cart Concerns, July 03, 2024, 09:49AM
+39183, Vacant Property Open to Entry, July 09, 2024, 09:09AM
+42781, Scheduled Bulk Pick up, July 17, 2024, 11:22AM
+
+14131 Tuckahoe Ave, Cleveland, Oh, 44111 (3 requests)
+37895, Waste Cart Concerns, July 03, 2024, 11:09AM
+44647, Waste Cart Concerns, July 22, 2024, 06:58PM
+45118, Waste Cart Concerns, July 24, 2024, 04:04AM
+
+5600 Central Ave, Cleveland, Oh, 44104 (3 requests)
+38133, Vacant Property Open to Entry, July 04, 2024, 12:21PM
+42131, Vacant Property Open to Entry, July 16, 2024, 09:59AM
+43101, Vacant Property Open to Entry, July 17, 2024, 10:15PM
+
+4008 Burger Ave, Cleveland, Oh, 44109 (3 requests)
+38340, Waste Cart Concerns, July 05, 2024, 12:34PM
+38342, Missing Recycling Welcome Packet, July 05, 2024, 12:36PM
+38823, Cart Pick Up, July 08, 2024, 11:15AM
+
+2542 E 86Th St, Cleveland, Oh, 44104 (3 requests)
+38506, Vacant Property, July 05, 2024, 05:23PM
+38507, Vacant Property, July 05, 2024, 05:25PM
+38508, General Exterior Maintenance/Fence/Outbuildings, July 05, 2024, 05:27PM
+
+1081 Lakeview Rd, Cleveland, Oh, 44108 (3 requests)
+39439, Missed Refuse pick up, July 09, 2024, 02:09PM
+40032, Missed Refuse pick up, July 10, 2024, 02:04PM
+43120, Tree Service, July 18, 2024, 04:24AM
+
+4213 Marvin Ave, Cleveland, Oh, 44109 (3 requests)
+39481, Vacant and Distressed Property, July 09, 2024, 02:55PM
+39485, Vacant Property Open to Entry, July 09, 2024, 03:05PM
+39486, Vacant Property, July 09, 2024, 03:07PM
+
+3613 W 47Th St, Cleveland, Oh, 44102 (3 requests)
+39705, Vacant Property, July 10, 2024, 08:43AM
+39706, Vacant Property Open to Entry, July 10, 2024, 08:43AM
+42788, Vacant Property Open to Entry, July 17, 2024, 11:25AM
+
+4451 W 57Th St, Cleveland, Oh, 44144 (3 requests)
+39787, Waste Cart Concerns, July 10, 2024, 10:01AM
+39789, Waste Cart Concerns, July 10, 2024, 10:03AM
+39793, Recycling Opt-in Program, July 10, 2024, 10:05AM
+
+4018 E 123Rd St, Cleveland, Oh, 44105 (3 requests)
+39815, Vacant Property Open to Entry, July 10, 2024, 10:27AM
+39818, Vacant and Distressed Property, July 10, 2024, 10:28AM
+39820, Vacant Property, July 10, 2024, 10:29AM
+
+4085 E 186Th St, Cleveland, Oh, 44122 (3 requests)
+40302, Vacant Property, July 11, 2024, 10:19AM
+40306, General Exterior Maintenance/Fence/Outbuildings, July 11, 2024, 10:21AM
+40307, Vacant Property Open to Entry, July 11, 2024, 10:22AM
+
+2104 W 25Th St, Cleveland, Oh, 44113 (3 requests)
+40596, Vacant Property Open to Entry, July 11, 2024, 05:17PM
+40600, Vacant Property, July 11, 2024, 05:18PM
+41071, General Exterior Maintenance/Fence/Outbuildings, July 12, 2024, 02:36PM
+
+9905 Sandusky Ave, Cleveland, Oh, 44105 (3 requests)
+40839, General Exterior Maintenance/Fence/Outbuildings, July 12, 2024, 09:42AM
+40841, Illegal Dumping, July 12, 2024, 09:44AM
+40847, Vacant Property, July 12, 2024, 09:51AM
+
+9909 Sandusky Ave, Cleveland, Oh, 44105 (3 requests)
+40843, Vacant and Distressed Property, July 12, 2024, 09:47AM
+40844, Illegal Dumping, July 12, 2024, 09:49AM
+40845, Vacant Property, July 12, 2024, 09:50AM
+
+17312 Tarrymore Rd, Cleveland, Oh, 44119 (3 requests)
+40930, Vacant Property, July 12, 2024, 11:11AM
+41606, Vacant Property, July 15, 2024, 11:33AM
+41608, General Exterior Maintenance/Fence/Outbuildings, July 15, 2024, 11:35AM
+
+1912 W 71St St, Cleveland, Oh, 44102 (3 requests)
+40959, Waste Cart Concerns, July 12, 2024, 12:03PM
+40961, Waste Cart Concerns, July 12, 2024, 12:04PM
+40963, Missing Recycling Welcome Packet, July 12, 2024, 12:06PM
+
+3664 E 154Th St, Cleveland, Oh, 44120 (3 requests)
+41666, Waste Cart Concerns, July 15, 2024, 12:44PM
+41669, Waste Cart Concerns, July 15, 2024, 12:45PM
+41671, Recycling Opt-in Program, July 15, 2024, 12:47PM
+
+2104 W 85Th St, Cleveland, Oh, 44102 (3 requests)
+41679, Waste Cart Concerns, July 15, 2024, 01:01PM
+41682, Waste Cart Concerns, July 15, 2024, 01:03PM
+41683, Missing Recycling Welcome Packet, July 15, 2024, 01:04PM
+
+13721 Emery Ave, Cleveland, Oh, 44135 (3 requests)
+42758, Waste Cart Concerns, July 17, 2024, 11:04AM
+45466, Waste Cart Concerns, July 24, 2024, 02:44PM
+45469, Cart Pick Up, July 24, 2024, 02:45PM
+
+353 E 123Rd St, Cleveland, Oh, 44108 (3 requests)
+42855, Waste Cart Concerns, July 17, 2024, 12:36PM
+42856, Cart Pick Up, July 17, 2024, 12:37PM
+42857, Waste Cart Concerns, July 17, 2024, 12:38PM
+
+4443 W 58Th St, Cleveland, Oh, 44144 (3 requests)
+43180, Waste Cart Concerns, July 18, 2024, 08:49AM
+43183, Missing Recycling Welcome Packet, July 18, 2024, 08:50AM
+44507, Waste Cart Concerns, July 22, 2024, 02:52PM
+
+3076 W 104Th St, Cleveland, Oh, 44111 (3 requests)
+43521, Vacant Property Open to Entry, July 18, 2024, 04:07PM
+44011, Vacant Property Open to Entry, July 20, 2024, 04:08PM
+45010, Vacant and Distressed Property, July 23, 2024, 03:13PM
+
+8410 Denison Ave, Cleveland, Oh, 44102 (3 requests)
+43586, New Public Street Receptacle, July 18, 2024, 07:32PM
+44208, Waste Cart Concerns, July 22, 2024, 09:19AM
+44213, Waste Cart Concerns, July 22, 2024, 09:23AM
+
+2184 E 82Nd St, Cleveland, Oh, 44103 (3 requests)
+44006, Plumbing Concern, July 20, 2024, 11:54AM
+45155, Plumbing Concern, July 24, 2024, 07:51AM
+45185, Rental Inspection Complaint, July 24, 2024, 08:46AM
+
+9717 Marah Ave, Cleveland, Oh, 44104 (3 requests)
+44370, Vacant Property Open to Entry, July 22, 2024, 12:01PM
+44372, Illegal Use of Property, July 22, 2024, 12:03PM
+44382, Illegal Dumping, July 22, 2024, 12:15PM
+
+17007 Scullin Dr, Cleveland, Oh, 44111 (3 requests)
+44427, Waste Cart Concerns, July 22, 2024, 01:14PM
+44428, Waste Cart Concerns, July 22, 2024, 01:15PM
+44429, Missing Recycling Welcome Packet, July 22, 2024, 01:17PM
+
+5838 Portage Ave, Cleveland, Oh, 44127 (3 requests)
+44431, Waste Cart Concerns, July 22, 2024, 01:20PM
+44432, Waste Cart Concerns, July 22, 2024, 01:21PM
+44434, Recycling Opt-in Program, July 22, 2024, 01:22PM
+
+13805 Svec Ave, Cleveland, Oh, 44120 (3 requests)
+44453, Waste Cart Concerns, July 22, 2024, 01:56PM
+44454, Waste Cart Concerns, July 22, 2024, 01:57PM
+44456, Missing Recycling Welcome Packet, July 22, 2024, 01:58PM
+
+1227 W 69Th St, Cleveland, Oh, 44102 (3 requests)
+44569, Waste Cart Concerns, July 22, 2024, 04:16PM
+44570, Waste Cart Concerns, July 22, 2024, 04:17PM
+44571, Missing Recycling Welcome Packet, July 22, 2024, 04:18PM
+
+3602 W 45Th St, Cleveland, Oh, 44102 (3 requests)
+44782, Waste Cart Concerns, July 23, 2024, 09:52AM
+44784, Waste Cart Concerns, July 23, 2024, 09:53AM
+44787, Missing Recycling Welcome Packet, July 23, 2024, 09:54AM
+
+1874 E 85Th St, Cleveland, Oh, 44106 (3 requests)
+45407, Waste Cart Concerns, July 24, 2024, 01:03PM
+45408, Waste Cart Concerns, July 24, 2024, 01:03PM
+45410, Recycling Opt-in Program, July 24, 2024, 01:04PM
+
+11021 Fortune Ave, Cleveland, Oh, 44111 (3 requests)
+45445, Waste Cart Concerns, July 24, 2024, 01:58PM
+45446, Waste Cart Concerns, July 24, 2024, 01:59PM
+45447, Missing Recycling Welcome Packet, July 24, 2024, 02:00PM
+
+6307 Dellbank Dr, Cleveland, Oh, 44144 (3 requests)
+45817, Waste Cart Concerns, July 25, 2024, 11:36AM
+45818, Waste Cart Concerns, July 25, 2024, 11:36AM
+45821, Missing Recycling Welcome Packet, July 25, 2024, 11:38AM
+
+11805 Farringdon Ave, Cleveland, 44105 (2 requests)
+23891, Waste Cart Concerns, May 15, 2024, 08:57AM
+23892, Missed Refuse pick up, May 15, 2024, 08:58AM
+
+3911 E 131 St, Cleveland, 44105 (2 requests)
+24056, Vacant Property Open to Entry, May 15, 2024, 01:10PM
+24057, Vacant and Distressed Property, May 15, 2024, 01:11PM
+
+10823 Churchill Ave, Cleveland, 44106 (2 requests)
+24074, General Exterior Maintenance/Fence/Outbuildings, May 15, 2024, 01:39PM
+24076, Vacant Property, May 15, 2024, 01:41PM
+
+10528 Elgin Ave, Cleveland, 44108 (2 requests)
+24121, Vacant Property, May 15, 2024, 02:58PM
+24123, Fallen Trees, May 15, 2024, 02:59PM
+
+10316 Prince Ave, Cleveland, 44105 (2 requests)
+24126, Vacant Property, May 15, 2024, 03:02PM
+24221, Vacant Property, May 15, 2024, 04:08PM
+
+4402 Behrwald Ave, Cleveland, 44109 (2 requests)
+24164, Waste Cart Concerns, May 15, 2024, 03:27PM
+24167, Missing Recycling Welcome Packet, May 15, 2024, 03:28PM
+
+12112 Wayland Ave, Cleveland, 44111 (2 requests)
+24237, Waste Cart Concerns, May 15, 2024, 04:26PM
+24239, Missing Recycling Welcome Packet, May 15, 2024, 04:27PM
+
+9817 Dickens Ave, Cleveland, 44104 (2 requests)
+24264, Vacant Property Open to Entry, May 15, 2024, 05:11PM
+26556, Vacant and Distressed Property, May 22, 2024, 02:10PM
+
+475 E 109 St, Cleveland, 44108 (2 requests)
+24304, Illegal Use of Property, May 16, 2024, 08:24AM
+24308, Early Set Out-Carts Left Out After Collection, May 16, 2024, 08:28AM
+
+2714 Oak Park Ave, Cleveland, 44109 (2 requests)
+24316, Waste Cart Concerns, May 16, 2024, 08:38AM
+24319, Missing Recycling Welcome Packet, May 16, 2024, 08:40AM
+
+3272 E 147 St, Cleveland, 44120 (2 requests)
+24340, Vacant Property, May 16, 2024, 09:02AM
+24410, Tree Service, May 16, 2024, 10:28AM
+
+12423 Phillips Ave, Cleveland, 44108 (2 requests)
+24397, No Heat, May 16, 2024, 10:10AM
+24658, No Heat, May 16, 2024, 03:15PM
+
+2836 East Blvd, Cleveland, 44104 (2 requests)
+24458, Vacant Property, May 16, 2024, 11:21AM
+24460, Vacant Property, May 16, 2024, 11:23AM
+
+2121 W 19 St, Cleveland, 44113 (2 requests)
+24527, Parks Maintenance, May 16, 2024, 12:52PM
+24528, Parks Maintenance, May 16, 2024, 12:54PM
+
+785 E 156 St, Cleveland, 44110 (2 requests)
+24695, General Exterior Maintenance/Fence/Outbuildings, May 16, 2024, 04:09PM
+24697, Tree Service, May 16, 2024, 04:11PM
+
+1664 Burgess Rd, Cleveland, 44112 (2 requests)
+24877, Vacant Property, May 17, 2024, 11:14AM
+27651, Vacant Property, May 24, 2024, 01:48PM
+
+3550 E 153 St, Cleveland, 44120 (2 requests)
+24879, Vacant Property, May 17, 2024, 11:20AM
+29441, Vacant Property, May 30, 2024, 03:45PM
+
+12022 Matherson Ave, Cleveland, 44135 (2 requests)
+25151, Dead Animal Pickup, May 18, 2024, 01:56PM
+26181, Dead Animal Pickup, May 21, 2024, 04:57PM
+
+4270 E 168 St, Cleveland, 44128 (2 requests)
+25293, Vacant Property Open to Entry, May 20, 2024, 10:09AM
+25299, Vacant Property, May 20, 2024, 10:11AM
+
+16602 Lipton Ave, Cleveland, 44128 (2 requests)
+25374, Cart Pick Up, May 20, 2024, 11:03AM
+25379, Waste Cart Concerns, May 20, 2024, 11:08AM
+
+3879 Strandhill Rd, Cleveland, 44128 (2 requests)
+25395, Waste Cart Concerns, May 20, 2024, 11:27AM
+25399, Missing Recycling Welcome Packet, May 20, 2024, 11:29AM
+
+3127 Becket Rd, Cleveland, 44120 (2 requests)
+25423, Vacant Property, May 20, 2024, 11:54AM
+25771, Vacant Property Open to Entry, May 21, 2024, 08:38AM
+
+4273 E 137 St, Cleveland, 44105 (2 requests)
+25474, Vacant and Distressed Property, May 20, 2024, 01:03PM
+25548, Vacant Property, May 20, 2024, 02:38PM
+
+13621 Caine Ave, Cleveland, 44105 (2 requests)
+25480, Collapsing Structure, May 20, 2024, 01:16PM
+25503, Vacant Property, May 20, 2024, 01:33PM
+
+3581 W 132 St, Cleveland, 44111 (2 requests)
+25511, Waste Cart Concerns, May 20, 2024, 01:46PM
+27749, No Permit, May 24, 2024, 04:16PM
+
+4343 Valleyside Rd, Cleveland, 44135 (2 requests)
+25519, Waste Cart Concerns, May 20, 2024, 01:56PM
+25521, Missing Recycling Welcome Packet, May 20, 2024, 01:58PM
+
+11804 Kensington Ave, Cleveland, 44111 (2 requests)
+25638, Waste Cart Concerns, May 20, 2024, 04:11PM
+25643, Waste Cart Concerns, May 20, 2024, 04:12PM
+
+10833 Olivet Ave, Cleveland, 44108 (2 requests)
+25661, Cart Pick Up, May 20, 2024, 04:22PM
+26571, Vacant and Distressed Property, May 22, 2024, 02:35PM
+
+18236 Flamingo Ave, Cleveland, 44135 (2 requests)
+25665, Missed Refuse pick up, May 20, 2024, 04:24PM
+28122, Fallen or Hanging Branch, May 28, 2024, 11:08AM
+
+3410 E 135 St, Cleveland, 44120 (2 requests)
+25686, Vacant Property Open to Entry, May 20, 2024, 04:48PM
+25687, General Exterior Maintenance/Fence/Outbuildings, May 20, 2024, 04:50PM
+
+3755 E 154 St, Cleveland, 44128 (2 requests)
+25716, Vacant Property Open to Entry, May 21, 2024, 01:53AM
+26021, Vacant Property, May 21, 2024, 12:53PM
+
+15103 Aldene Ave, Cleveland, 44135 (2 requests)
+25794, Vacant Property, May 21, 2024, 08:53AM
+25797, Vacant and Distressed Property, May 21, 2024, 08:55AM
+
+9717 Marah Ave, Cleveland, 44104 (2 requests)
+25911, Vacant Property Open to Entry, May 21, 2024, 11:07AM
+25913, Vacant and Distressed Property, May 21, 2024, 11:08AM
+
+1106 E 64 St, Cleveland, 44103 (2 requests)
+25952, Vacant Property, May 21, 2024, 11:42AM
+28936, Vacant Property, May 29, 2024, 03:12PM
+
+3560 E 118 St, Cleveland, 44105 (2 requests)
+25977, Vacant Property Open to Entry, May 21, 2024, 12:04PM
+25978, Vacant Property, May 21, 2024, 12:05PM
+
+4138 E 104 St, Cleveland, 44105 (2 requests)
+25987, Vacant Property, May 21, 2024, 12:14PM
+25988, General Exterior Maintenance/Fence/Outbuildings, May 21, 2024, 12:15PM
+
+9509 Raymond Ave, Cleveland, 44104 (2 requests)
+25989, Vacant and Distressed Property, May 21, 2024, 12:15PM
+30388, Collapsing Structure, June 03, 2024, 02:02PM
+
+3656 E 135 St, Cleveland, 44120 (2 requests)
+26049, Vacant Property, May 21, 2024, 01:41PM
+30397, Vacant Property, June 03, 2024, 02:10PM
+
+125 E 156 St, Cleveland, 44110 (2 requests)
+26074, Rental Inspection Complaint, May 21, 2024, 02:05PM
+28813, Rental Inspection Complaint, May 29, 2024, 12:50PM
+
+1083 E 146 St, Cleveland, 44110 (2 requests)
+26116, Tree Service, May 21, 2024, 03:15PM
+26117, Vacant Property, May 21, 2024, 03:16PM
+
+3735 Warren Rd, Cleveland, 44111 (2 requests)
+26120, Waste Cart Concerns, May 21, 2024, 03:18PM
+30294, Cart Pick Up, June 03, 2024, 12:35PM
+
+3711 E 61 St, Cleveland, 44105 (2 requests)
+26128, Electrical Issue, May 21, 2024, 03:26PM
+26132, Smoke Detector/Fire Alarm, May 21, 2024, 03:28PM
+
+2906 E 104 St, Cleveland, 44104 (2 requests)
+26193, Vacant and Distressed Property, May 21, 2024, 05:58PM
+26393, Vacant Property, May 22, 2024, 10:55AM
+
+16203 Sedalia Ave, Cleveland, 44135 (2 requests)
+26206, Missed Refuse pick up, May 21, 2024, 06:39PM
+26208, Waste Cart Concerns, May 21, 2024, 06:40PM
+
+3187 W 115 St, Cleveland, 44111 (2 requests)
+26257, Waste Cart Concerns, May 22, 2024, 08:41AM
+26264, Missed Refuse pick up, May 22, 2024, 08:52AM
+
+615 Literary Rd, Cleveland, 44113 (2 requests)
+26290, Waste Cart Concerns, May 22, 2024, 09:27AM
+26294, Missing Recycling Welcome Packet, May 22, 2024, 09:30AM
+
+1116 Auburn Ave, Cleveland, 44113 (2 requests)
+26372, Vacant and Distressed Property, May 22, 2024, 10:40AM
+26374, Vacant Property, May 22, 2024, 10:43AM
+
+13140 Belden Ave, Cleveland, 44111 (2 requests)
+26435, Scheduled Bulk Pick up, May 22, 2024, 11:34AM
+28065, Waste Cart Concerns, May 28, 2024, 10:28AM
+
+4207 W 15 St, Cleveland, 44109 (2 requests)
+26445, Tire Pick up, May 22, 2024, 11:43AM
+27524, Missed Refuse pick up, May 24, 2024, 11:03AM
+
+9317 Way Ave, Cleveland, 44105 (2 requests)
+26530, General Exterior Maintenance/Fence/Outbuildings, May 22, 2024, 01:24PM
+26531, Illegal Use of Property, May 22, 2024, 01:26PM
+
+3618 E 142 St, Cleveland, 44120 (2 requests)
+26629, Vacant Property, May 22, 2024, 03:28PM
+30285, Vacant Property, June 03, 2024, 12:28PM
+
+3505 Beyerle Rd, Cleveland, 44105 (2 requests)
+26659, General Exterior Maintenance/Fence/Outbuildings, May 22, 2024, 03:54PM
+26663, Rental Inspection Complaint, May 22, 2024, 03:57PM
+
+12109 Phillips Ave, Cleveland, 44108 (2 requests)
+26670, Vacant Property, May 22, 2024, 04:02PM
+27650, Vacant Property, May 24, 2024, 01:47PM
+
+10735 Elmarge Rd, Cleveland, 44105 (2 requests)
+26751, Scheduled Bulk Pick up, May 22, 2024, 07:37PM
+26753, Dead Animal Pickup, May 22, 2024, 07:39PM
+
+15911 Westview Ave, Cleveland, 44128 (2 requests)
+26900, Vacant Property, May 23, 2024, 10:05AM
+29280, Vacant Property, May 30, 2024, 12:17PM
+
+3895 E 189 St, Cleveland, 44122 (2 requests)
+26924, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 10:35AM
+26928, Vacant Property Open to Entry, May 23, 2024, 10:36AM
+
+1415 W 54 St, Cleveland, 44102 (2 requests)
+26961, Waste Cart Concerns, May 23, 2024, 11:03AM
+26965, Missing Recycling Welcome Packet, May 23, 2024, 11:04AM
+
+3038 W 46 St, Cleveland, 44102 (2 requests)
+26994, Vacant Property Open to Entry, May 23, 2024, 11:45AM
+26998, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 11:47AM
+
+653 E 131 St, Cleveland, 44108 (2 requests)
+27007, Waste Cart Concerns, May 23, 2024, 11:58AM
+27009, Recycling Opt-in Program, May 23, 2024, 12:00PM
+
+1691 E 82 St, Cleveland, 44103 (2 requests)
+27069, Vacant Property, May 23, 2024, 12:56PM
+27070, No Permit, May 23, 2024, 12:58PM
+
+1596 E 32 St, Cleveland, 44114 (2 requests)
+27173, General Exterior Maintenance/Fence/Outbuildings, May 23, 2024, 02:50PM
+27175, Vacant Property, May 23, 2024, 02:51PM
+
+4236 W 130 St, Cleveland, 44135 (2 requests)
+27205, Vacant Property, May 23, 2024, 03:13PM
+27208, Vacant Property, May 23, 2024, 03:15PM
+
+10009 Hampden Ave, Cleveland, 44108 (2 requests)
+27217, Vacant and Distressed Property, May 23, 2024, 03:24PM
+27220, Vacant Property Open to Entry, May 23, 2024, 03:25PM
+
+4115 E 147 St, Cleveland, 44128 (2 requests)
+27236, Vacant Property, May 23, 2024, 03:39PM
+27738, Vacant Property, May 24, 2024, 04:01PM
+
+3416 E 114 St, Cleveland, 44104 (2 requests)
+27296, Vacant Property, May 23, 2024, 04:40PM
+27298, Tree Service, May 23, 2024, 04:41PM
+
+9012 Harris Ave, Cleveland, 44104 (2 requests)
+27550, Vacant Property, May 24, 2024, 11:34AM
+28846, Vacant Property, May 29, 2024, 01:19PM
+
+11325 Miles Ave, Cleveland, 44105 (2 requests)
+27552, General Exterior Maintenance/Fence/Outbuildings, May 24, 2024, 11:38AM
+27557, Vacant Property, May 24, 2024, 11:58AM
+
+3327 W 88 St, Cleveland, 44102 (2 requests)
+27599, Waste Cart Concerns, May 24, 2024, 12:46PM
+27600, Missing Recycling Welcome Packet, May 24, 2024, 12:48PM
+
+13705 Elsetta Ave, Cleveland, 44135 (2 requests)
+27620, Missed Refuse pick up, May 24, 2024, 01:12PM
+27624, Missed Refuse pick up, May 24, 2024, 01:13PM
+
+4086 E 143 St, Cleveland, 44128 (2 requests)
+27626, Vacant Property, May 24, 2024, 01:14PM
+27634, Vacant Property, May 24, 2024, 01:18PM
+
+3442 W 59 St, Cleveland, 44102 (2 requests)
+27667, Missed Refuse pick up, May 24, 2024, 02:24PM
+27669, Waste Cart Concerns, May 24, 2024, 02:25PM
+
+10604 Gooding Ave, Cleveland, 44108 (2 requests)
+27767, Illegal Dumping, May 24, 2024, 05:10PM
+27769, General Exterior Maintenance/Fence/Outbuildings, May 24, 2024, 05:14PM
+
+4387 E 175 St, Cleveland, 44128 (2 requests)
+27832, Vacant Property Open to Entry, May 27, 2024, 05:56AM
+29052, Vacant Property Open to Entry, May 29, 2024, 11:09PM
+
+14709 Darwin Ave, Cleveland, 44110 (2 requests)
+27937, Vacant Property, May 28, 2024, 08:58AM
+27953, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 09:13AM
+
+16609 Lotus Dr, Cleveland, 44128 (2 requests)
+27954, Waste Cart Concerns, May 28, 2024, 09:14AM
+28432, Missed Refuse pick up, May 28, 2024, 03:48PM
+
+14809 Darwin Ave, Cleveland, 44110 (2 requests)
+27961, Vacant Property, May 28, 2024, 09:21AM
+27965, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 09:25AM
+
+14805 Darwin Ave, Cleveland, 44110 (2 requests)
+27977, Illegal Dumping, May 28, 2024, 09:30AM
+27980, Cart Pick Up, May 28, 2024, 09:31AM
+
+3279 W 30 St, Cleveland, 44109 (2 requests)
+27993, Tree Service, May 28, 2024, 09:36AM
+27997, Vacant Property, May 28, 2024, 09:38AM
+
+3525 W 52 St, Cleveland, 44102 (2 requests)
+28023, Waste Cart Concerns, May 28, 2024, 09:57AM
+29644, Waste Cart Concerns, May 31, 2024, 10:32AM
+
+3637 E 112 St, Cleveland, 44105 (2 requests)
+28147, Vacant Property, May 28, 2024, 11:19AM
+28155, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 11:23AM
+
+3741 E 154 St, Cleveland, 44120 (2 requests)
+28152, Waste Cart Concerns, May 28, 2024, 11:21AM
+28153, Waste Cart Concerns, May 28, 2024, 11:22AM
+
+3792 W 132 St, Cleveland, 44111 (2 requests)
+28182, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 11:36AM
+28184, Rental Inspection Complaint, May 28, 2024, 11:37AM
+
+3891 E 146 St, Cleveland, 44128 (2 requests)
+28227, Dead Animal Pickup, May 28, 2024, 12:11PM
+28714, Cart Pick Up, May 29, 2024, 11:07AM
+
+3452 E 149 St, Cleveland, 44120 (2 requests)
+28236, Waste Cart Concerns, May 28, 2024, 12:18PM
+28240, Waste Cart Concerns, May 28, 2024, 12:20PM
+
+4347 Valleyside Rd, Cleveland, 44135 (2 requests)
+28268, Missed Refuse pick up, May 28, 2024, 12:39PM
+28271, Waste Cart Concerns, May 28, 2024, 12:42PM
+
+13231 Puritas Ave, Cleveland, 44135 (2 requests)
+28276, Missing Recycling Welcome Packet, May 28, 2024, 12:45PM
+30432, Cart Pick Up, June 03, 2024, 02:47PM
+
+11901 Guardian Blvd, Cleveland, 44135 (2 requests)
+28385, Waste Cart Concerns, May 28, 2024, 02:55PM
+29369, Cart Pick Up, May 30, 2024, 02:18PM
+
+1405 E 41 St, Cleveland, 44103 (2 requests)
+28434, Recycling Opt-in Program, May 28, 2024, 03:48PM
+28436, Missing Recycling Welcome Packet, May 28, 2024, 03:50PM
+
+2605 W 41 St, Cleveland, 44113 (2 requests)
+28494, Vacant Property, May 28, 2024, 05:12PM
+28499, General Exterior Maintenance/Fence/Outbuildings, May 28, 2024, 05:14PM
+
+5525 E 55 St, Cleveland, 44103 (2 requests)
+28512, Vacant and Distressed Property, May 28, 2024, 05:44PM
+28992, Vacant Property, May 29, 2024, 04:01PM
+
+666 E 107 St, Cleveland, 44108 (2 requests)
+28536, Vacant Property Open to Entry, May 29, 2024, 08:08AM
+28538, Vacant Property, May 29, 2024, 08:10AM
+
+12216 Locke Ave, Cleveland, 44108 (2 requests)
+28762, Vacant Property, May 29, 2024, 11:35AM
+28765, General Exterior Maintenance/Fence/Outbuildings, May 29, 2024, 11:37AM
+
+923 Fruit Ave, Cleveland, 44113 (2 requests)
+28780, Vacant Property, May 29, 2024, 12:07PM
+28781, Vacant Property, May 29, 2024, 12:08PM
+
+12009 Oakfield Ave, Cleveland, 44105 (2 requests)
+28831, Waste Cart Concerns, May 29, 2024, 01:06PM
+28832, Waste Cart Concerns, May 29, 2024, 01:10PM
+
+3550 Seymour Ave, Cleveland, 44113 (2 requests)
+28903, Waste Cart Concerns, May 29, 2024, 02:42PM
+28906, Waste Cart Concerns, May 29, 2024, 02:43PM
+
+3613 W 50 St, Cleveland, 44102 (2 requests)
+28918, Illegal Dumping, May 29, 2024, 02:55PM
+28933, Vacant Property Open to Entry, May 29, 2024, 03:11PM
+
+10301 Mt Auburn Ave, Cleveland, 44104 (2 requests)
+28924, Vacant Property, May 29, 2024, 03:04PM
+28930, Cart Pick Up, May 29, 2024, 03:07PM
+
+14710 Milverton Rd, Cleveland, 44120 (2 requests)
+28946, Vacant Property, May 29, 2024, 03:22PM
+28949, Early Set Out-Carts Left Out After Collection, May 29, 2024, 03:23PM
+
+13818 Melzer Ave, Cleveland, 44120 (2 requests)
+28952, Waste Cart Concerns, May 29, 2024, 03:26PM
+28958, Waste Cart Concerns, May 29, 2024, 03:35PM
+
+3612 Carlyle Ave, Cleveland, 44109 (2 requests)
+29021, Vacant Property, May 29, 2024, 04:57PM
+29022, General Exterior Maintenance/Fence/Outbuildings, May 29, 2024, 04:58PM
+
+12505 Kirton Ave, Cleveland, 44135 (2 requests)
+29097, Waste Cart Concerns, May 30, 2024, 08:44AM
+29100, Waste Cart Concerns, May 30, 2024, 08:47AM
+
+4117 Oak Park Ave, Cleveland, 44109 (2 requests)
+29102, Dead Animal Pickup, May 30, 2024, 08:49AM
+29556, Dead Animal Pickup, May 31, 2024, 08:57AM
+
+2092 W 101 St, Cleveland, 44102 (2 requests)
+29148, Vacant Property Open to Entry, May 30, 2024, 09:46AM
+29150, Vacant Property, May 30, 2024, 09:47AM
+
+12815 Harvard Ave, Cleveland, 44105 (2 requests)
+29223, Vacant Property, May 30, 2024, 11:09AM
+29227, Vacant and Distressed Property, May 30, 2024, 11:14AM
+
+3878 W 118 St, Cleveland, 44111 (2 requests)
+29268, Vacant Property, May 30, 2024, 12:04PM
+29274, Tree Service, May 30, 2024, 12:09PM
+
+3537 E 106 St, Cleveland, 44105 (2 requests)
+29328, Vacant Property, May 30, 2024, 01:28PM
+29331, Vacant Property Open to Entry, May 30, 2024, 01:36PM
+
+9625 Stoughton Ave, Cleveland, 44104 (2 requests)
+29354, Waste Cart Concerns, May 30, 2024, 02:02PM
+29360, Waste Cart Concerns, May 30, 2024, 02:11PM
+
+10715 Thrush Ave, Cleveland, 44111 (2 requests)
+29365, Waste Cart Concerns, May 30, 2024, 02:14PM
+29366, Waste Cart Concerns, May 30, 2024, 02:15PM
+
+15514 Talford Ave, Cleveland, 44128 (2 requests)
+29384, Vacant Property Open to Entry, May 30, 2024, 02:34PM
+29390, Vacant Property, May 30, 2024, 02:37PM
+
+3773 Lee Rd, Cleveland, 44128 (2 requests)
+29427, Vacant Property, May 30, 2024, 03:29PM
+29431, Vacant and Distressed Property, May 30, 2024, 03:30PM
+
+12810 Marston Ave, Cleveland, 44105 (2 requests)
+29474, Dead Animal Pickup, May 30, 2024, 04:31PM
+29598, Dead Animal Pickup, May 31, 2024, 09:39AM
+
+3220 W 58 St, Cleveland, 44102 (2 requests)
+29494, Vacant Property Open to Entry, May 30, 2024, 05:02PM
+29495, Vacant Property, May 30, 2024, 05:04PM
+
+2192 W 93 St, Cleveland, 44102 (2 requests)
+29604, Vacant Property, May 31, 2024, 09:48AM
+29605, General Exterior Maintenance/Fence/Outbuildings, May 31, 2024, 09:50AM
+
+1898 E 69 St, Cleveland, 44103 (2 requests)
+29608, Vacant Property, May 31, 2024, 09:54AM
+29614, General Exterior Maintenance/Fence/Outbuildings, May 31, 2024, 10:08AM
+
+4460 E 158 St, Cleveland, 44128 (2 requests)
+29737, Vacant Property, May 31, 2024, 12:04PM
+29739, Tree Service, May 31, 2024, 12:07PM
+
+3647 E 140 St, Cleveland, 44120 (2 requests)
+29778, Waste Cart Concerns, May 31, 2024, 01:08PM
+29781, Waste Cart Concerns, May 31, 2024, 01:08PM
+
+678 E 118 St, Cleveland, 44108 (2 requests)
+29972, Vacant and Distressed Property, June 01, 2024, 10:38AM
+30242, Vacant Property, June 03, 2024, 11:51AM
+
+10514 Pasadena Ave, Cleveland, 44108 (2 requests)
+30106, Vacant Property, June 03, 2024, 09:10AM
+30107, Vacant and Distressed Property, June 03, 2024, 09:11AM
+
+13618 Benwood Ave, Cleveland, 44105 (2 requests)
+30114, Vacant Property, June 03, 2024, 09:16AM
+30116, Vacant and Distressed Property, June 03, 2024, 09:17AM
+
+1265 E 168 St, Cleveland, 44110 (2 requests)
+30209, Illegal Dumping, June 03, 2024, 11:11AM
+30213, Waste Cart Concerns, June 03, 2024, 11:14AM
+
+4700 Bragdon Ave, Cleveland, 44102 (2 requests)
+30239, Missed Refuse pick up, June 03, 2024, 11:50AM
+30241, Missing Recycling Welcome Packet, June 03, 2024, 11:51AM
+
+16401 Judson Dr, Cleveland, 44128 (2 requests)
+30315, Waste Cart Concerns, June 03, 2024, 12:51PM
+30322, Recycling Opt-in Program, June 03, 2024, 12:55PM
+
+3597 E 135 St, Cleveland, 44120 (2 requests)
+30392, Vacant Property, June 03, 2024, 02:07PM
+30394, Vacant Property, June 03, 2024, 02:09PM
+
+3596 E 120 St, Cleveland, 44105 (2 requests)
+30519, General Exterior Maintenance/Fence/Outbuildings, June 03, 2024, 04:39PM
+30522, Vacant Property, June 03, 2024, 04:40PM
+
+13202 Harvard Ave, Cleveland, 44105 (2 requests)
+30528, Waste Cart Concerns, June 03, 2024, 04:46PM
+30537, Vacant Property, June 03, 2024, 04:51PM
+
+4245 E 189 St, Cleveland, 44122 (2 requests)
+30531, Dead Animal Pickup, June 03, 2024, 04:48PM
+30533, Missed Refuse pick up, June 03, 2024, 04:49PM
+
+12710 Union Ave, Cleveland, Oh, 44105 (2 requests)
+30633, Dead Animal Pickup, June 04, 2024, 08:34AM
+43537, Vacant Property, July 18, 2024, 04:52PM
+
+14120 Gramatan Ave, Cleveland, Oh, 44111 (2 requests)
+30642, Waste Cart Concerns, June 04, 2024, 08:44AM
+34232, Cart Pick Up, June 21, 2024, 09:10AM
+
+17721 Crestland Rd, Cleveland, Oh, 44119 (2 requests)
+30691, Vacant Property, June 04, 2024, 09:19AM
+45522, Fallen or Hanging Branch, July 24, 2024, 04:26PM
+
+3650 Independence Rd, Cleveland, Oh, 44105 (2 requests)
+30787, Cart Pick Up, June 04, 2024, 11:33AM
+35859, Cart Pick Up, June 26, 2024, 01:11PM
+
+6211 Hough Ave, Cleveland, Oh, 44103 (2 requests)
+30790, Waste Cart Concerns, June 04, 2024, 11:39AM
+41629, Waste Cart Concerns, July 15, 2024, 11:54AM
+
+2910 Hampton Rd, Cleveland, Oh, 44120 (2 requests)
+30802, General Exterior Maintenance/Fence/Outbuildings, June 04, 2024, 11:53AM
+42232, General Exterior Maintenance/Fence/Outbuildings, July 16, 2024, 11:48AM
+
+3911 E 131St St, Cleveland, Oh, 44105 (2 requests)
+30874, Vacant Property Open to Entry, June 04, 2024, 01:43PM
+30875, Vacant and Distressed Property, June 04, 2024, 01:44PM
+
+15604 Westview Ave, Cleveland, Oh, 44128 (2 requests)
+30949, Waste Cart Concerns, June 04, 2024, 03:27PM
+30953, Waste Cart Concerns, June 04, 2024, 03:29PM
+
+636 E 109Th St, Cleveland, Oh, 44108 (2 requests)
+30961, Vacant Property Open to Entry, June 04, 2024, 03:46PM
+45213, Vacant Property Open to Entry, July 24, 2024, 09:21AM
+
+640 E 109Th St, Cleveland, Oh, 44108 (2 requests)
+30964, Vacant Property Open to Entry, June 04, 2024, 03:50PM
+33018, Illegal Dumping, June 14, 2024, 09:39AM
+
+1725 Buhrer Ave, Cleveland, Oh, 44109 (2 requests)
+30966, Vacant Property, June 04, 2024, 03:53PM
+31704, Vacant Property, June 06, 2024, 11:19AM
+
+1192 E 146Th St, Cleveland, Oh, 44110 (2 requests)
+30995, General Exterior Maintenance/Fence/Outbuildings, June 04, 2024, 04:54PM
+30998, Vacant Property, June 04, 2024, 04:58PM
+
+1184 E 146Th St, Cleveland, Oh, 44110 (2 requests)
+30996, General Exterior Maintenance/Fence/Outbuildings, June 04, 2024, 04:55PM
+30997, Vacant Property, June 04, 2024, 04:57PM
+
+14802 Edgewood Ave, Cleveland, Oh, 44128 (2 requests)
+31007, Dead Animal Pickup, June 04, 2024, 05:38PM
+36861, Waste Cart Concerns, July 01, 2024, 10:21AM
+
+1267 E 111Th St, Cleveland, Oh, 44108 (2 requests)
+31021, Missed Refuse pick up, June 04, 2024, 06:24PM
+39897, Missed Refuse pick up, July 10, 2024, 11:33AM
+
+3795 W 139Th St, Cleveland, Oh, 44111 (2 requests)
+31034, Missed Refuse pick up, June 04, 2024, 09:03PM
+31036, Scheduled Bulk Pick up, June 04, 2024, 09:05PM
+
+17310 Holly Hill Dr, Cleveland, Oh, 44128 (2 requests)
+31165, Waste Cart Concerns, June 05, 2024, 10:24AM
+31166, Waste Cart Concerns, June 05, 2024, 10:26AM
+
+3741 E 146Th St, Cleveland, Oh, 44120 (2 requests)
+31214, Missed Refuse pick up, June 05, 2024, 11:04AM
+44443, Scheduled Bulk Pick up, July 22, 2024, 01:30PM
+
+15810 Holmes Ave, Cleveland, Oh, 44110 (2 requests)
+31232, General Exterior Maintenance/Fence/Outbuildings, June 05, 2024, 11:16AM
+41619, No Permit, July 15, 2024, 11:40AM
+
+1770 W 57Th St, Cleveland, Oh, 44102 (2 requests)
+31259, Vacant Property Open to Entry, June 05, 2024, 11:45AM
+31298, Vacant and Distressed Property, June 05, 2024, 12:21PM
+
+15402 Judson Dr, Cleveland, Oh, 44128 (2 requests)
+31261, Vacant Property, June 05, 2024, 11:46AM
+31264, Illegal Dumping, June 05, 2024, 11:50AM
+
+13900 Lakeshore Blvd, Cleveland, Oh, 44110 (2 requests)
+31307, Missed Refuse pick up, June 05, 2024, 12:25PM
+42809, Missed Refuse pick up, July 17, 2024, 11:37AM
+
+14113 Edgewood Ave, Cleveland, Oh, 44128 (2 requests)
+31411, Missed Refuse pick up, June 05, 2024, 03:00PM
+31412, Missed Refuse pick up, June 05, 2024, 03:01PM
+
+4655 E 175Th St, Cleveland, Oh, 44128 (2 requests)
+31417, General Exterior Maintenance/Fence/Outbuildings, June 05, 2024, 03:09PM
+31429, Vacant Property, June 05, 2024, 03:26PM
+
+17005 S Miles Rd, Cleveland, Oh, 44128 (2 requests)
+31431, Vacant Property, June 05, 2024, 03:30PM
+45373, Illegal Dumping, July 24, 2024, 11:49AM
+
+2235 West Blvd, Cleveland, Oh, 44102 (2 requests)
+31478, Missed Refuse pick up, June 05, 2024, 04:37PM
+31481, Missed Refuse pick up, June 05, 2024, 04:39PM
+
+1316 E 68Th St, Cleveland, Oh, 44103 (2 requests)
+31488, Missed Refuse pick up, June 05, 2024, 04:47PM
+31490, Missed Refuse pick up, June 05, 2024, 04:49PM
+
+3727 Warren Rd, Cleveland, Oh, 44111 (2 requests)
+31497, Missing Recycling Welcome Packet, June 05, 2024, 04:59PM
+35126, Waste Cart Concerns, June 25, 2024, 03:55AM
+
+4723 W 25Th St, Cleveland, Oh, 44109 (2 requests)
+31558, Collapsing Structure, June 06, 2024, 08:49AM
+31561, Vacant and Distressed Property, June 06, 2024, 08:52AM
+
+3220 Riverside Ave, Cleveland, Oh, 44109 (2 requests)
+31573, Waste Cart Concerns, June 06, 2024, 09:05AM
+39154, Cart Pick Up, July 09, 2024, 08:27AM
+
+10829 Morison Ave, Cleveland, Oh, 44108 (2 requests)
+31586, Vacant Property, June 06, 2024, 09:26AM
+40417, Vacant Property, July 11, 2024, 01:15PM
+
+5204 Franklin Blvd, Cleveland, Oh, 44102 (2 requests)
+31592, Cart Pick Up, June 06, 2024, 09:29AM
+31597, Waste Cart Concerns, June 06, 2024, 09:31AM
+
+601 Lakeside Ave E, Cleveland, Oh, 44114 (2 requests)
+31612, Lead Hazard/Peeling Paint, June 06, 2024, 09:41AM
+40163, Smoke Detector/Fire Alarm, July 11, 2024, 06:30AM
+
+923 Fruit Ave, Cleveland, Oh, 44113 (2 requests)
+31614, Vacant Property, June 06, 2024, 09:44AM
+31617, Vacant Property, June 06, 2024, 09:47AM
+
+200 Cleveland Memorial Shoreway, Cleveland, Oh, 44114 (2 requests)
+31624, Illegal Dumping, June 06, 2024, 09:51AM
+31630, Missed Refuse pick up, June 06, 2024, 09:57AM
+
+15710 Corsica Ave, Cleveland, Oh, 44110 (2 requests)
+31730, Vacant Property Open to Entry, June 06, 2024, 11:51AM
+31731, Vacant Property, June 06, 2024, 11:51AM
+
+6915 Hague Ave, Cleveland, Oh, 44102 (2 requests)
+31762, Vacant Property Open to Entry, June 06, 2024, 12:29PM
+32429, Vacant Property Open to Entry, June 08, 2024, 03:13AM
+
+1367 E 6Th St, Cleveland, Oh, 44114 (2 requests)
+31819, Downtown Trash Receptacle, June 06, 2024, 01:49PM
+42598, Debris in Street, July 17, 2024, 08:41AM
+
+11409 Western Ave, Cleveland, Oh, 44111 (2 requests)
+31824, Missing Recycling Welcome Packet, June 06, 2024, 01:54PM
+39498, Waste Cart Concerns, July 09, 2024, 03:33PM
+
+2087 W 73Rd St, Cleveland, Oh, 44102 (2 requests)
+31841, Illegal Dumping, June 06, 2024, 02:20PM
+39741, Illegal Dumping, July 10, 2024, 09:15AM
+
+9516 Baltic Rd, Cleveland, Oh, 44102 (2 requests)
+31909, Missed Refuse pick up, June 06, 2024, 04:12PM
+42481, Scheduled Bulk Pick up, July 16, 2024, 04:47PM
+
+9820 Hilgert Dr, Cleveland, Oh, 44104 (2 requests)
+31916, Missed Refuse pick up, June 06, 2024, 04:26PM
+41052, Missed Refuse pick up, July 12, 2024, 01:58PM
+
+3163 W 111Th St, Cleveland, Oh, 44111 (2 requests)
+31944, Waste Cart Concerns, June 06, 2024, 04:49PM
+31946, Waste Cart Concerns, June 06, 2024, 04:50PM
+
+12117 Corlett Ave, Cleveland, Oh, 44105 (2 requests)
+31947, Vacant Property Open to Entry, June 06, 2024, 04:51PM
+41439, Vacant Property Open to Entry, July 15, 2024, 07:38AM
+
+3368 E 149Th St, Cleveland, Oh, 44120 (2 requests)
+31970, Vacant Property, June 06, 2024, 05:34PM
+39650, Vacant Property, July 10, 2024, 05:50AM
+
+17900 Delavan Ave, Cleveland, Oh, 44119 (2 requests)
+32026, Scheduled Bulk Pick up, June 07, 2024, 09:03AM
+34377, Scheduled Bulk Pick up, June 21, 2024, 11:54AM
+
+13530 Miles Ave, Cleveland, Oh, 44128 (2 requests)
+32042, No Permit, June 07, 2024, 09:23AM
+32044, General Exterior Maintenance/Fence/Outbuildings, June 07, 2024, 09:26AM
+
+3201 Library Ave, Cleveland, Oh, 44109 (2 requests)
+32047, Waste Cart Concerns, June 07, 2024, 09:30AM
+32053, Recycling Opt-in Program, June 07, 2024, 09:34AM
+
+17120 Endora Rd, Cleveland, Oh, 44112 (2 requests)
+32064, Missing Recycling Welcome Packet, June 07, 2024, 09:41AM
+32666, Waste Collection Citation Concern, June 10, 2024, 04:15PM
+
+4513 Fulton Rd, Cleveland, Oh, 44144 (2 requests)
+32107, Missed Refuse pick up, June 07, 2024, 10:46AM
+36528, Missed Refuse pick up, June 28, 2024, 12:06PM
+
+981 Stevenson Rd, Cleveland, Oh, 44110 (2 requests)
+32150, Tree Service, June 07, 2024, 11:29AM
+32153, Tree Service, June 07, 2024, 11:31AM
+
+3483 W 52Nd St, Cleveland, Oh, 44102 (2 requests)
+32163, Waste Cart Concerns, June 07, 2024, 11:40AM
+32170, Cart Pick Up, June 07, 2024, 11:45AM
+
+11500 Madison Ave, Cleveland, Oh, 44102 (2 requests)
+32199, General Exterior Maintenance/Fence/Outbuildings, June 07, 2024, 12:34PM
+32201, Illegal Dumping, June 07, 2024, 12:37PM
+
+3670 E 61St St, Cleveland, Oh, 44105 (2 requests)
+32219, Waste Cart Concerns, June 07, 2024, 12:56PM
+43000, Waste Cart Concerns, July 17, 2024, 03:35PM
+
+3526 Walton Ave, Cleveland, Oh, 44113 (2 requests)
+32254, Waste Cart Concerns, June 07, 2024, 01:58PM
+32257, Missing Recycling Welcome Packet, June 07, 2024, 01:59PM
+
+7815 Colgate Ave, Cleveland, Oh, 44102 (2 requests)
+32300, Waste Cart Concerns, June 07, 2024, 02:48PM
+32303, Waste Cart Concerns, June 07, 2024, 02:49PM
+
+11525 Madison Ave, Cleveland, Oh, 44102 (2 requests)
+32325, General Exterior Maintenance/Fence/Outbuildings, June 07, 2024, 03:19PM
+32328, Graffiti Removal, June 07, 2024, 03:22PM
+
+6302 Francis Ave, Cleveland, Oh, 44127 (2 requests)
+32375, Waste Cart Concerns, June 07, 2024, 04:14PM
+38447, Vacant Property, July 05, 2024, 03:24PM
+
+6027 Hillman Ave, Cleveland, Oh, 44127 (2 requests)
+32417, General Exterior Maintenance/Fence/Outbuildings, June 07, 2024, 05:14PM
+36426, Illegal Dumping, June 28, 2024, 08:56AM
+
+16436 Miles Ave, Cleveland, Oh, 44128 (2 requests)
+32518, Traffic Signal Repair, June 09, 2024, 03:49PM
+41338, Traffic Signal Repair, July 14, 2024, 06:03PM
+
+4491 Broadview Rd, Cleveland, Oh, 44109 (2 requests)
+32587, Scheduled Bulk Pick up, June 10, 2024, 11:51AM
+37997, Scheduled Bulk Pick up, July 03, 2024, 01:02PM
+
+14722 Coit Rd, Cleveland, Oh, 44110 (2 requests)
+32676, Vacant Property Open to Entry, June 10, 2024, 04:44PM
+39264, Vacant Property Open to Entry, July 09, 2024, 10:38AM
+
+11117 Melba Ave, Cleveland, Oh, 44104 (2 requests)
+32726, Rental Inspection Complaint, June 11, 2024, 09:35AM
+42844, Missed Refuse pick up, July 17, 2024, 12:25PM
+
+1017 E 141St St, Cleveland, Oh, 44110 (2 requests)
+32749, Vacant Property, June 11, 2024, 01:30PM
+39648, Vacant Property, July 10, 2024, 05:44AM
+
+18113 Midvale Ave, Cleveland, Oh, 44135 (2 requests)
+32784, Missed Refuse pick up, June 11, 2024, 03:17PM
+32786, Missed Refuse pick up, June 11, 2024, 03:18PM
+
+10624 Olivet Ave, Cleveland, Oh, 44108 (2 requests)
+32816, Missed Refuse pick up, June 11, 2024, 04:35PM
+32818, Recycling Opt-in Program, June 11, 2024, 04:36PM
+
+3393 E 135Th St, Cleveland, Oh, 44120 (2 requests)
+32848, Vacant Property, June 12, 2024, 05:25AM
+33066, Vacant and Distressed Property, June 15, 2024, 08:49AM
+
+3553 Granton Ave, Cleveland, Oh, 44111 (2 requests)
+32887, Scheduled Bulk Pick up, June 12, 2024, 06:04PM
+42839, Missed Refuse pick up, July 17, 2024, 12:12PM
+
+9812 Cudell Ave, Cleveland, Oh, 44102 (2 requests)
+32890, Waste Cart Concerns, June 12, 2024, 06:26PM
+32892, Waste Cart Concerns, June 12, 2024, 06:27PM
+
+7407 Dudley Ave, Cleveland, Oh, 44102 (2 requests)
+32897, Rental Inspection Complaint, June 12, 2024, 06:52PM
+39736, Illegal Dumping, July 10, 2024, 09:09AM
+
+12628 Carrington Ave, Cleveland, Oh, 44135 (2 requests)
+32915, Scheduled Bulk Pick up, June 12, 2024, 09:33PM
+41186, Missed Refuse pick up, July 12, 2024, 09:24PM
+
+10602 Earle Ave, Cleveland, Oh, 44108 (2 requests)
+32938, Electrical Issue, June 13, 2024, 06:20AM
+45104, Electrical Issue, July 24, 2024, 02:45AM
+
+10400 Mount Auburn Ave, Cleveland, Oh, 44104 (2 requests)
+32975, Rental Inspection Complaint, June 14, 2024, 03:19AM
+34177, Rental Inspection Complaint, June 21, 2024, 07:14AM
+
+1817 Alcoy Rd, Cleveland, Oh, 44112 (2 requests)
+32994, No Water/No Hot Water, June 14, 2024, 07:15AM
+38119, No Water/No Hot Water, July 04, 2024, 05:07AM
+
+19402 Kilson Ave, Cleveland, Oh, 44135 (2 requests)
+33207, Missed Refuse pick up, June 17, 2024, 05:59AM
+33236, Dead Animal Pickup, June 17, 2024, 08:37AM
+
+3850 E 65Th St, Cleveland, Oh, 44105 (2 requests)
+33240, Vacant Property Open to Entry, June 17, 2024, 08:43AM
+40414, Waste Cart Concerns, July 11, 2024, 01:01PM
+
+3772 E 71St St, Cleveland, Oh, 44105 (2 requests)
+33242, Vacant Property Open to Entry, June 17, 2024, 08:48AM
+33243, Vacant and Distressed Property, June 17, 2024, 08:50AM
+
+4729 E 173Rd St, Cleveland, Oh, 44128 (2 requests)
+33536, Vacant Property, June 19, 2024, 08:22AM
+40568, Vacant Property, July 11, 2024, 04:39PM
+
+1626 E 77Th St, Cleveland, Oh, 44103 (2 requests)
+33599, Missed Refuse pick up, June 19, 2024, 11:15AM
+43033, Missed Refuse pick up, July 17, 2024, 04:05PM
+
+4600 Wetzel Ave, Cleveland, Oh, 44109 (2 requests)
+33646, Tree Service, June 19, 2024, 01:43PM
+44251, Waste Cart Concerns, July 22, 2024, 09:58AM
+
+3166 W 47Th St, Cleveland, Oh, 44102 (2 requests)
+33704, Waste Cart Concerns, June 19, 2024, 05:45PM
+33705, Waste Cart Concerns, June 19, 2024, 05:48PM
+
+14922 Pepper Ave, Cleveland, Oh, 44110 (2 requests)
+33855, Waste Cart Concerns, June 20, 2024, 10:53AM
+44314, Missing Recycling Welcome Packet, July 22, 2024, 10:57AM
+
+3836 E 140Th St, Cleveland, Oh, 44120 (2 requests)
+33860, Waste Cart Concerns, June 20, 2024, 10:58AM
+33861, Missed Refuse pick up, June 20, 2024, 10:59AM
+
+3913 Buechner Ave, Cleveland, Oh, 44109 (2 requests)
+33882, Waste Cart Concerns, June 20, 2024, 11:24AM
+33887, Recycling Opt-in Program, June 20, 2024, 11:27AM
+
+10835 Orville Ave, Cleveland, Oh, 44106 (2 requests)
+33909, Vacant Property, June 20, 2024, 11:52AM
+33908, Vacant Property Open to Entry, June 20, 2024, 11:51AM
+
+4112 Clybourne Ave, Cleveland, Oh, 44109 (2 requests)
+34044, Waste Cart Concerns, June 20, 2024, 03:47PM
+41044, Waste Cart Concerns, July 12, 2024, 01:53PM
+
+9200 Boxwood Ave, Cleveland, Oh, 44105 (2 requests)
+34068, Missing Recycling Welcome Packet, June 20, 2024, 04:31PM
+38568, Missed Refuse pick up, July 06, 2024, 01:27PM
+
+1670 W 69Th St, Cleveland, Oh, 44102 (2 requests)
+34304, Waste Cart Concerns, June 21, 2024, 10:25AM
+45039, Cart Pick Up, July 23, 2024, 03:58PM
+
+2125 W 101St St, Cleveland, Oh, 44102 (2 requests)
+34461, Missed Refuse pick up, June 21, 2024, 03:38PM
+38214, Missed Refuse pick up, July 05, 2024, 08:43AM
+
+5607 Hege Ave, Cleveland, Oh, 44105 (2 requests)
+34478, Waste Cart Concerns, June 21, 2024, 03:57PM
+34480, Missing Recycling Welcome Packet, June 21, 2024, 04:02PM
+
+16505 Chatfield Ave, Cleveland, Oh, 44111 (2 requests)
+34646, Fallen or Hanging Branch, June 24, 2024, 04:43AM
+45655, Tree Service, July 25, 2024, 08:43AM
+
+16504 Melgrave Ave, Cleveland, Oh, 44135 (2 requests)
+34689, Tree Service, June 24, 2024, 08:27AM
+34690, Fallen or Hanging Branch, June 24, 2024, 08:29AM
+
+19501 Harsax Ave, Cleveland, Oh, 44135 (2 requests)
+34733, Waste Cart Concerns, June 24, 2024, 09:25AM
+35641, Cart Pick Up, June 26, 2024, 08:32AM
+
+3575 W 65Th St, Cleveland, Oh, 44102 (2 requests)
+34763, Vacant Property, June 24, 2024, 09:47AM
+42220, Waste Cart Concerns, July 16, 2024, 11:31AM
+
+1195 E 113Th St, Cleveland, Oh, 44108 (2 requests)
+34782, Vacant Property Open to Entry, June 24, 2024, 10:11AM
+34783, Vacant Property, June 24, 2024, 10:12AM
+
+3666 E 131St St, Cleveland, Oh, 44105 (2 requests)
+34796, Waste Cart Concerns, June 24, 2024, 10:39AM
+36026, Waste Cart Concerns, June 27, 2024, 05:28AM
+
+2356 E 86Th St, Cleveland, Oh, 44106 (2 requests)
+34809, Vacant Property, June 24, 2024, 10:55AM
+34811, Illegal Dumping, June 24, 2024, 11:00AM
+
+3842 E 146Th St, Cleveland, Oh, 44128 (2 requests)
+34819, Vacant and Distressed Property, June 24, 2024, 11:10AM
+34820, Vacant Property Open to Entry, June 24, 2024, 11:11AM
+
+3597 E 135Th St, Cleveland, Oh, 44120 (2 requests)
+34887, Vacant Property, June 24, 2024, 12:40PM
+34891, Vacant Property, June 24, 2024, 12:42PM
+
+3417 E 103Rd St, Cleveland, Oh, 44104 (2 requests)
+34893, Vacant and Distressed Property, June 24, 2024, 12:45PM
+44109, Vacant Property Open to Entry, July 21, 2024, 08:42PM
+
+3981 W 157Th St, Cleveland, Oh, 44111 (2 requests)
+34931, Missed Refuse pick up, June 24, 2024, 01:36PM
+34935, Missing Recycling Welcome Packet, June 24, 2024, 01:41PM
+
+4059 St Clair Ave, Cleveland, Oh, 44114 (2 requests)
+35071, Damaged or Missing traffic Sign, June 24, 2024, 04:43PM
+44044, Debris in Street, July 21, 2024, 08:09AM
+
+1358 Penhurst Rd, Cleveland, Oh, 44110 (2 requests)
+35087, Cart Pick Up, June 24, 2024, 05:04PM
+35088, Waste Cart Concerns, June 24, 2024, 05:05PM
+
+14612 Kingsford Ave, Cleveland, Oh, 44128 (2 requests)
+35113, Vacant Property, June 25, 2024, 02:48AM
+45503, General Exterior Maintenance/Fence/Outbuildings, July 24, 2024, 04:03PM
+
+1874 W 45Th St, Cleveland, Oh, 44102 (2 requests)
+35153, Early Set Out-Carts Left Out After Collection, June 25, 2024, 06:49AM
+37075, Waste Cart Concerns, July 01, 2024, 03:07PM
+
+4276 E 71St St, Cleveland, Oh, 44105 (2 requests)
+35195, Parks Maintenance, June 25, 2024, 09:00AM
+35199, Parks Maintenance, June 25, 2024, 09:06AM
+
+16305 Invermere Ave, Cleveland, Oh, 44128 (2 requests)
+35208, Missed Refuse pick up, June 25, 2024, 09:20AM
+45650, Fallen or Hanging Branch, July 25, 2024, 08:30AM
+
+4169 Feiner Dr, Cleveland, Oh, 44122 (2 requests)
+35344, Waste Cart Concerns, June 25, 2024, 12:00PM
+45440, Waste Cart Concerns, July 24, 2024, 01:50PM
+
+3376 W 95Th St, Cleveland, Oh, 44102 (2 requests)
+35423, Rental Inspection Complaint, June 25, 2024, 02:10PM
+44207, Rental Inspection Complaint, July 22, 2024, 09:19AM
+
+1372 E 115Th St, Cleveland, Oh, 44106 (2 requests)
+35433, Waste Cart Concerns, June 25, 2024, 02:33PM
+35447, Waste Cart Concerns, June 25, 2024, 02:38PM
+
+13208 Bellaire Rd, Cleveland, Oh, 44135 (2 requests)
+35444, Waste Cart Concerns, June 25, 2024, 02:36PM
+37826, Cart Pick Up, July 03, 2024, 09:29AM
+
+1342 E 88Th St, Cleveland, Oh, 44106 (2 requests)
+35446, Vacant and Distressed Property, June 25, 2024, 02:38PM
+35449, Vacant Property Open to Entry, June 25, 2024, 02:40PM
+
+3489 W 118Th St, Cleveland, Oh, 44111 (2 requests)
+35472, Waste Cart Concerns, June 25, 2024, 03:07PM
+35473, Cart Pick Up, June 25, 2024, 03:09PM
+
+3200 Audubon Blvd, Cleveland, Oh, 44104 (2 requests)
+35539, Fallen or Hanging Branch, June 25, 2024, 04:41PM
+35544, Tree Service, June 25, 2024, 04:44PM
+
+1422 E 112Th St, Cleveland, Oh, 44106 (2 requests)
+35630, Vacant and Distressed Property, June 26, 2024, 07:50AM
+35631, Vacant Property Open to Entry, June 26, 2024, 07:51AM
+
+11211 Knowlton Ave, Cleveland, Oh, 44106 (2 requests)
+35632, General Exterior Maintenance/Fence/Outbuildings, June 26, 2024, 07:57AM
+35634, Vacant and Distressed Property, June 26, 2024, 08:10AM
+
+3379 W 135Th St, Cleveland, Oh, 44111 (2 requests)
+35650, Missed Refuse pick up, June 26, 2024, 08:57AM
+35884, Missed Refuse pick up, June 26, 2024, 02:38PM
+
+3550 E 142Nd St, Cleveland, Oh, 44120 (2 requests)
+35659, Waste Cart Concerns, June 26, 2024, 09:09AM
+39467, Cart Pick Up, July 09, 2024, 02:40PM
+
+3625 Dawning Ave, Cleveland, Oh, 44109 (2 requests)
+35686, Waste Cart Concerns, June 26, 2024, 09:38AM
+42400, Waste Cart Concerns, July 16, 2024, 03:30PM
+
+1804 W 45Th St, Cleveland, Oh, 44102 (2 requests)
+35687, No Permit, June 26, 2024, 09:38AM
+41916, General Exterior Maintenance/Fence/Outbuildings, July 15, 2024, 04:45PM
+
+9711 Stoughton Ave, Cleveland, Oh, 44104 (2 requests)
+35701, Waste Cart Concerns, June 26, 2024, 09:58AM
+42722, Waste Cart Concerns, July 17, 2024, 10:45AM
+
+4277 E 164Th St, Cleveland, Oh, 44128 (2 requests)
+35770, Early Set Out-Carts Left Out After Collection, June 26, 2024, 11:29AM
+42493, Early Set Out-Carts Left Out After Collection, July 16, 2024, 05:09PM
+
+833 Gino Ln, Cleveland, Oh, 44109 (2 requests)
+35804, Waste Cart Concerns, June 26, 2024, 12:06PM
+36269, Waste Cart Concerns, June 27, 2024, 03:55PM
+
+4221 Newark Ave, Cleveland, Oh, 44109 (2 requests)
+35809, Vacant Property Open to Entry, June 26, 2024, 12:11PM
+35995, Vacant Property Open to Entry, June 26, 2024, 08:13PM
+
+751 E 128Th St, Cleveland, Oh, 44108 (2 requests)
+35878, Vacant Property Open to Entry, June 26, 2024, 02:36PM
+35880, Vacant Property, June 26, 2024, 02:36PM
+
+1250 E 108Th St, Cleveland, Oh, 44108 (2 requests)
+35912, Illegal Dumping, June 26, 2024, 03:17PM
+42186, Vacant Property, July 16, 2024, 10:45AM
+
+5208 Barkwill Ave, Cleveland, Oh, 44127 (2 requests)
+35998, Vacant Property Open to Entry, June 26, 2024, 10:39PM
+39444, Illegal Dumping, July 09, 2024, 02:12PM
+
+3962 Brookside Blvd, Cleveland, Oh, 44111 (2 requests)
+36000, Waste Cart Concerns, June 27, 2024, 02:44AM
+44936, Spills-Trash in Street or Treelawn, July 23, 2024, 01:19PM
+
+8917 Beckman Ave, Cleveland, Oh, 44104 (2 requests)
+36159, Vacant Property, June 27, 2024, 11:09AM
+36160, Tree Service, June 27, 2024, 11:11AM
+
+3832 E 55Th St, Cleveland, Oh, 44105 (2 requests)
+36165, Waste Cart Concerns, June 27, 2024, 11:27AM
+36167, Waste Cart Concerns, June 27, 2024, 11:28AM
+
+4421 Burger Ave, Cleveland, Oh, 44109 (2 requests)
+36178, Waste Cart Concerns, June 27, 2024, 11:48AM
+37761, Waste Cart Concerns, July 03, 2024, 08:11AM
+
+6602 Fleet Ave, Cleveland, Oh, 44105 (2 requests)
+36183, Vacant Property Open to Entry, June 27, 2024, 11:58AM
+36185, General Exterior Maintenance/Fence/Outbuildings, June 27, 2024, 12:01PM
+
+3683 West Park Rd, Cleveland, Oh, 44111 (2 requests)
+36204, Waste Cart Concerns, June 27, 2024, 12:50PM
+43420, Missing Recycling Welcome Packet, July 18, 2024, 02:15PM
+
+3421 E 123Rd St, Cleveland, Oh, 44120 (2 requests)
+36253, Tree Service, June 27, 2024, 03:18PM
+36256, Vacant Property, June 27, 2024, 03:20PM
+
+3581 E 104Th St, Cleveland, Oh, 44105 (2 requests)
+36259, Illegal Dumping, June 27, 2024, 03:23PM
+42858, Waste Cart Concerns, July 17, 2024, 12:38PM
+
+3911 E 147Th St, Cleveland, Oh, 44128 (2 requests)
+36276, Vacant Property, June 27, 2024, 04:11PM
+44966, Vacant Property, July 23, 2024, 01:58PM
+
+7505 Elton Ave, Cleveland, Oh, 44102 (2 requests)
+36326, Vacant Property Open to Entry, June 27, 2024, 06:59PM
+36742, Vacant Property Open to Entry, June 30, 2024, 09:47AM
+
+7014 Clark Ave, Cleveland, Oh, 44102 (2 requests)
+36333, Vacant Property, June 27, 2024, 07:17PM
+37411, General Exterior Maintenance/Fence/Outbuildings, July 02, 2024, 11:21AM
+
+3679 West Park Rd, Cleveland, Oh, 44111 (2 requests)
+36431, Waste Cart Concerns, June 28, 2024, 09:03AM
+37909, Cart Pick Up, July 03, 2024, 11:33AM
+
+2774 E 117Th St, Cleveland, Oh, 44120 (2 requests)
+36490, Illegal Dumping, June 28, 2024, 11:10AM
+40396, General Exterior Maintenance/Fence/Outbuildings, July 11, 2024, 12:36PM
+
+4008 Fulton Ct, Cleveland, Oh, 44113 (2 requests)
+36503, Vacant and Distressed Property, June 28, 2024, 11:32AM
+36505, Illegal Dumping, June 28, 2024, 11:33AM
+
+2962 E 67Th St, Cleveland, Oh, 44127 (2 requests)
+36538, Vacant Property Open to Entry, June 28, 2024, 12:16PM
+37503, Vacant and Distressed Property, July 02, 2024, 02:19PM
+
+3981 Wendy Dr, Cleveland, Oh, 44122 (2 requests)
+36584, Vacant Property, June 28, 2024, 01:40PM
+39016, Vacant Property, July 08, 2024, 03:44PM
+
+11449 Carolina Rd, Cleveland, Oh, 44108 (2 requests)
+36621, Waste Cart Concerns, June 28, 2024, 03:22PM
+36622, Waste Cart Concerns, June 28, 2024, 03:25PM
+
+4403 Riverside Ave, Cleveland, Oh, 44102 (2 requests)
+36632, Missed Refuse pick up, June 28, 2024, 03:37PM
+40703, Missed Refuse pick up, July 11, 2024, 09:18PM
+
+4197 Lee Rd, Cleveland, Oh, 44128 (2 requests)
+36651, Vacant Property Open to Entry, June 28, 2024, 04:20PM
+36652, Vacant Property, June 28, 2024, 04:21PM
+
+14000 Kinsman Rd, Cleveland, Oh, 44120 (2 requests)
+36695, Traffic Signal Repair, June 29, 2024, 09:51AM
+37536, Traffic Signal Repair, July 02, 2024, 02:50PM
+
+16111 Arcade Ave, Cleveland, Oh, 44110 (2 requests)
+36705, Waste Cart Concerns, June 29, 2024, 11:48AM
+36707, Recycling Opt-in Program, June 29, 2024, 11:50AM
+
+4781 W 32Nd St, Cleveland, Oh, 44109 (2 requests)
+36720, Early Set Out-Carts Left Out After Collection, June 29, 2024, 02:39PM
+37549, Early Set Out-Carts Left Out After Collection, July 02, 2024, 03:05PM
+
+11405 Hazeldell Dr, Cleveland, Oh, 44108 (2 requests)
+36789, Waste Cart Concerns, July 01, 2024, 08:27AM
+37782, Waste Cart Concerns, July 03, 2024, 08:41AM
+
+1953 W 112Th St, Cleveland, Oh, 44102 (2 requests)
+36814, Graffiti Removal, July 01, 2024, 09:22AM
+40818, Damaged or Missing traffic Sign, July 12, 2024, 09:12AM
+
+3190 W 165Th St, Cleveland, Oh, 44111 (2 requests)
+36850, Waste Cart Concerns, July 01, 2024, 10:10AM
+36851, Missing Recycling Welcome Packet, July 01, 2024, 10:12AM
+
+3104 Erin Ave, Cleveland, Oh, 44113 (2 requests)
+36883, Vacant Property Open to Entry, July 01, 2024, 10:37AM
+36889, Vacant Property, July 01, 2024, 10:41AM
+
+3068 Erin Ave, Cleveland, Oh, 44113 (2 requests)
+36885, Vacant Property Open to Entry, July 01, 2024, 10:38AM
+36890, Vacant Property, July 01, 2024, 10:43AM
+
+3301 W 165Th St, Cleveland, Oh, 44111 (2 requests)
+36919, Waste Cart Concerns, July 01, 2024, 11:21AM
+37771, Cart Pick Up, July 03, 2024, 08:24AM
+
+18401 Windward Rd, Cleveland, Oh, 44119 (2 requests)
+36951, Waste Cart Concerns, July 01, 2024, 12:15PM
+36952, Missing Recycling Welcome Packet, July 01, 2024, 12:16PM
+
+3823 W 34Th St, Cleveland, Oh, 44109 (2 requests)
+36959, Vacant Property Open to Entry, July 01, 2024, 12:22PM
+37425, Vacant and Distressed Property, July 02, 2024, 12:15PM
+
+1249 Addison Rd, Cleveland, Oh, 44103 (2 requests)
+36973, General Exterior Maintenance/Fence/Outbuildings, July 01, 2024, 12:34PM
+39112, Illegal Use of Property, July 09, 2024, 05:24AM
+
+16321 Stockbridge Ave, Cleveland, Oh, 44128 (2 requests)
+36999, Vacant Property, July 01, 2024, 01:10PM
+40028, Vacant Property, July 10, 2024, 01:47PM
+
+3395 E 140Th St, Cleveland, Oh, 44120 (2 requests)
+37085, General Exterior Maintenance/Fence/Outbuildings, July 01, 2024, 03:10PM
+43329, General Exterior Maintenance/Fence/Outbuildings, July 18, 2024, 12:09PM
+
+3976 E 71St St, Cleveland, Oh, 44105 (2 requests)
+37106, General Exterior Maintenance/Fence/Outbuildings, July 01, 2024, 03:25PM
+39181, Vacant Property Open to Entry, July 09, 2024, 09:07AM
+
+1615 Denison Ave, Cleveland, Oh, 44109 (2 requests)
+37121, No Heat, July 01, 2024, 03:43PM
+37341, No Permit, July 02, 2024, 09:57AM
+
+3414 Riverside Ave, Cleveland, Oh, 44109 (2 requests)
+37153, Vacant Property, July 01, 2024, 04:16PM
+39900, Vacant Property Open to Entry, July 10, 2024, 11:36AM
+
+15403 Walden Ave, Cleveland, Oh, 44128 (2 requests)
+37308, Missed Refuse pick up, July 02, 2024, 09:22AM
+38246, Missed Refuse pick up, July 05, 2024, 09:38AM
+
+17818 Delavan Ave, Cleveland, Oh, 44119 (2 requests)
+37326, Missed Refuse pick up, July 02, 2024, 09:45AM
+45830, Waste Cart Concerns, July 25, 2024, 11:42AM
+
+4679 W 146Th St, Cleveland, Oh, 44135 (2 requests)
+37399, Missed Refuse pick up, July 02, 2024, 10:47AM
+39456, Missed Refuse pick up, July 09, 2024, 02:27PM
+
+4223 Stickney Ave, Cleveland, Oh, 44109 (2 requests)
+37436, Waste Cart Concerns, July 02, 2024, 12:27PM
+38427, Waste Cart Concerns, July 05, 2024, 02:57PM
+
+3585 E 112Th St, Cleveland, Oh, 44105 (2 requests)
+37470, Electrical Issue, July 02, 2024, 01:29PM
+37479, Rental Inspection Complaint, July 02, 2024, 01:38PM
+
+4396 E 175Th St, Cleveland, Oh, 44128 (2 requests)
+37474, Vacant Property, July 02, 2024, 01:34PM
+44138, Vacant Property, July 22, 2024, 05:37AM
+
+3319 E 117Th St, Cleveland, Oh, 44120 (2 requests)
+37517, Waste Cart Concerns, July 02, 2024, 02:34PM
+37520, Waste Cart Concerns, July 02, 2024, 02:35PM
+
+3464 E 108Th St, Cleveland, Oh, 44104 (2 requests)
+37571, Vacant Property, July 02, 2024, 03:46PM
+40786, Vacant Property Open to Entry, July 12, 2024, 08:39AM
+
+7606 Broadway Ave, Cleveland, Oh, 44105 (2 requests)
+37644, General Exterior Maintenance/Fence/Outbuildings, July 02, 2024, 04:48PM
+37848, Vacant Property Open to Entry, July 03, 2024, 09:58AM
+
+3578 Independence Rd, Cleveland, Oh, 44105 (2 requests)
+37656, Tree Service, July 02, 2024, 05:13PM
+43691, No Permit, July 19, 2024, 09:05AM
+
+677 E 128Th St, Cleveland, Oh, 44108 (2 requests)
+37786, Missed Refuse pick up, July 03, 2024, 08:43AM
+41971, Missed Refuse pick up, July 15, 2024, 09:36PM
+
+2769 E 127Th St, Cleveland, Oh, 44120 (2 requests)
+37799, Large Set Out or Eviction, July 03, 2024, 08:54AM
+39010, Vacant Property, July 08, 2024, 03:41PM
+
+3084 W 105Th St, Cleveland, Oh, 44111 (2 requests)
+37803, Waste Cart Concerns, July 03, 2024, 09:00AM
+37805, Waste Cart Concerns, July 03, 2024, 09:01AM
+
+11409 Mount Overlook Ave, Cleveland, Oh, 44104 (2 requests)
+37858, Vacant Property, July 03, 2024, 10:17AM
+42196, Vacant Property Open to Entry, July 16, 2024, 11:01AM
+
+4136 E 114Th St, Cleveland, Oh, 44105 (2 requests)
+37901, Waste Cart Concerns, July 03, 2024, 11:17AM
+44793, Waste Cart Concerns, July 23, 2024, 09:59AM
+
+1600 E 27Th St, Cleveland, Oh, 44114 (2 requests)
+37920, Tire Pick up, July 03, 2024, 11:44AM
+40234, Tire Pick up, July 11, 2024, 09:10AM
+
+905 Rudyard Rd, Cleveland, Oh, 44110 (2 requests)
+37954, Rental Inspection Complaint, July 03, 2024, 12:14PM
+37958, Electrical Issue, July 03, 2024, 12:16PM
+
+12904 Holborn Ave, Cleveland, Oh, 44105 (2 requests)
+38018, Vacant and Distressed Property, July 03, 2024, 01:24PM
+38019, Vacant Property, July 03, 2024, 01:25PM
+
+5519 Mound Ave, Cleveland, Oh, 44105 (2 requests)
+38048, Illegal Dumping, July 03, 2024, 02:02PM
+39593, Vacant Property Open to Entry, July 10, 2024, 03:11AM
+
+3306 West Blvd, Cleveland, Oh, 44111 (2 requests)
+38143, Waste Cart Concerns, July 04, 2024, 04:09PM
+38145, Waste Cart Concerns, July 04, 2024, 04:11PM
+
+2158 Murray Hill Rd, Cleveland, Oh, 44106 (2 requests)
+38259, Waste Cart Concerns, July 05, 2024, 10:16AM
+38279, Waste Cart Concerns, July 05, 2024, 10:57AM
+
+4900 Bader Ave, Cleveland, Oh, 44109 (2 requests)
+38283, Missed Refuse pick up, July 05, 2024, 11:06AM
+43162, Cart Pick Up, July 18, 2024, 08:26AM
+
+4533 Broadale Rd, Cleveland, Oh, 44109 (2 requests)
+38304, Waste Cart Concerns, July 05, 2024, 11:49AM
+38307, Missing Recycling Welcome Packet, July 05, 2024, 11:51AM
+
+3247 W 92Nd St, Cleveland, Oh, 44102 (2 requests)
+38348, Waste Cart Concerns, July 05, 2024, 12:43PM
+38350, Waste Cart Concerns, July 05, 2024, 12:45PM
+
+9114 Marshall Ave, Cleveland, Oh, 44104 (2 requests)
+38449, Missed Refuse pick up, July 05, 2024, 03:30PM
+43841, Missed Refuse pick up, July 19, 2024, 01:09PM
+
+9407 Benham Ave, Cleveland, Oh, 44105 (2 requests)
+38584, Missed Refuse pick up, July 06, 2024, 03:52PM
+39920, Missed Refuse pick up, July 10, 2024, 11:51AM
+
+16108 Grovewood Ave, Cleveland, Oh, 44110 (2 requests)
+38663, Scheduled Bulk Pick up, July 08, 2024, 06:07AM
+40298, Missed Refuse pick up, July 11, 2024, 10:12AM
+
+2825 Silverdale Ave, Cleveland, Oh, 44109 (2 requests)
+38677, Waste Cart Concerns, July 08, 2024, 08:12AM
+44194, Missing Recycling Welcome Packet, July 22, 2024, 08:54AM
+
+1087 E 171St St, Cleveland, Oh, 44119 (2 requests)
+38716, Waste Cart Concerns, July 08, 2024, 09:06AM
+38717, Waste Cart Concerns, July 08, 2024, 09:07AM
+
+1549 E 85Th St, Cleveland, Oh, 44106 (2 requests)
+38932, Waste Cart Concerns, July 08, 2024, 02:00PM
+39696, Waste Cart Concerns, July 10, 2024, 08:37AM
+
+3110 W 159Th St, Cleveland, Oh, 44111 (2 requests)
+38953, Tree Service, July 08, 2024, 02:38PM
+38958, Tree Service, July 08, 2024, 02:40PM
+
+12430 Phillips Ave, Cleveland, Oh, 44108 (2 requests)
+38974, Vacant Property, July 08, 2024, 02:57PM
+38977, General Exterior Maintenance/Fence/Outbuildings, July 08, 2024, 02:58PM
+
+17115 Eldamere Ave, Cleveland, Oh, 44128 (2 requests)
+38979, Waste Cart Concerns, July 08, 2024, 03:00PM
+40629, Missed Refuse pick up, July 11, 2024, 06:47PM
+
+1982 E 126Th St, Cleveland, Oh, 44106 (2 requests)
+39002, Waste Cart Concerns, July 08, 2024, 03:30PM
+39861, Waste Cart Concerns, July 10, 2024, 10:55AM
+
+16612 Fairfax Ave, Cleveland, Oh, 44128 (2 requests)
+39034, Vacant Property Open to Entry, July 08, 2024, 04:14PM
+45379, Vacant Property, July 24, 2024, 11:52AM
+
+3217 E 132Nd St, Cleveland, Oh, 44120 (2 requests)
+39132, Waste Cart Concerns, July 09, 2024, 07:54AM
+39133, Waste Cart Concerns, July 09, 2024, 07:54AM
+
+3110 W 84Th St, Cleveland, Oh, 44102 (2 requests)
+39242, Vacant Property, July 09, 2024, 10:27AM
+39246, General Exterior Maintenance/Fence/Outbuildings, July 09, 2024, 10:30AM
+
+2601 W 14Th St, Cleveland, Oh, 44113 (2 requests)
+39278, Large Set Out or Eviction, July 09, 2024, 10:52AM
+40095, Waste Cart Concerns, July 10, 2024, 04:06PM
+
+17302 Woodbury Ave, Cleveland, Oh, 44135 (2 requests)
+39337, No Permit, July 09, 2024, 12:08PM
+41355, General Exterior Maintenance/Fence/Outbuildings, July 14, 2024, 07:09PM
+
+11424 Carolina Rd, Cleveland, Oh, 44108 (2 requests)
+39340, Vacant Property Open to Entry, July 09, 2024, 12:13PM
+41547, Vacant and Distressed Property, July 15, 2024, 10:22AM
+
+1199 E 114Th St, Cleveland, Oh, 44108 (2 requests)
+39345, Vacant Property Open to Entry, July 09, 2024, 12:18PM
+41548, Vacant and Distressed Property, July 15, 2024, 10:24AM
+
+7503 Redell Ave, Cleveland, Oh, 44103 (2 requests)
+39364, Vacant Property, July 09, 2024, 12:52PM
+39366, Vacant and Distressed Property, July 09, 2024, 12:53PM
+
+7505 Redell Ave, Cleveland, Oh, 44103 (2 requests)
+39369, Vacant Property, July 09, 2024, 12:55PM
+39368, Vacant and Distressed Property, July 09, 2024, 12:54PM
+
+4425 W 49Th St, Cleveland, Oh, 44144 (2 requests)
+39374, Waste Cart Concerns, July 09, 2024, 12:59PM
+41189, Missing Recycling Welcome Packet, July 12, 2024, 09:36PM
+
+3085 W 105Th St, Cleveland, Oh, 44111 (2 requests)
+39433, Tree Service, July 09, 2024, 02:04PM
+42785, Scheduled Bulk Pick up, July 17, 2024, 11:23AM
+
+2009 Corning Ave, Cleveland, Oh, 44109 (2 requests)
+39465, Vacant Property Open to Entry, July 09, 2024, 02:39PM
+40042, Vacant Property Open to Entry, July 10, 2024, 02:19PM
+
+2982 E 59Th St, Cleveland, Oh, 44127 (2 requests)
+39474, Vacant and Distressed Property, July 09, 2024, 02:49PM
+43202, General Exterior Maintenance/Fence/Outbuildings, July 18, 2024, 09:12AM
+
+4891 Lee Rd, Cleveland, Oh, 44128 (2 requests)
+39552, General Exterior Maintenance/Fence/Outbuildings, July 09, 2024, 04:57PM
+39745, Vacant Property, July 10, 2024, 09:25AM
+
+3686 West Blvd, Cleveland, Oh, 44111 (2 requests)
+39709, Waste Cart Concerns, July 10, 2024, 08:46AM
+45458, Cart Pick Up, July 24, 2024, 02:23PM
+
+1709 W 69Th St, Cleveland, Oh, 44102 (2 requests)
+39776, Waste Cart Concerns, July 10, 2024, 09:53AM
+39778, Waste Cart Concerns, July 10, 2024, 09:54AM
+
+9117 Connecticut Ave, Cleveland, Oh, 44105 (2 requests)
+39809, Tire Pick up, July 10, 2024, 10:22AM
+39817, Waste Cart Concerns, July 10, 2024, 10:28AM
+
+4017 E 123Rd St, Cleveland, Oh, 44105 (2 requests)
+39822, Vacant Property, July 10, 2024, 10:31AM
+45692, Vacant and Distressed Property, July 25, 2024, 09:26AM
+
+4343 Rocky River Dr, Cleveland, Oh, 44135 (2 requests)
+39869, General Exterior Maintenance/Fence/Outbuildings, July 10, 2024, 11:08AM
+39904, Illegal Use of Property, July 10, 2024, 11:38AM
+
+3107 Colburn Ave, Cleveland, Oh, 44109 (2 requests)
+40015, Vacant Property Open to Entry, July 10, 2024, 01:29PM
+42977, Vacant Property Open to Entry, July 17, 2024, 03:02PM
+
+7001 Indiana Ave, Cleveland, Oh, 44105 (2 requests)
+40071, General Exterior Maintenance/Fence/Outbuildings, July 10, 2024, 03:07PM
+40893, Vacant Property, July 12, 2024, 10:36AM
+
+2986 E 111Th St, Cleveland, Oh, 44104 (2 requests)
+40223, Tree Service, July 11, 2024, 08:55AM
+40227, Illegal Dumping, July 11, 2024, 09:00AM
+
+4294 E 133Rd St, Cleveland, Oh, 44105 (2 requests)
+40326, Vacant Property, July 11, 2024, 10:37AM
+45262, Illegal Dumping, July 24, 2024, 10:28AM
+
+11309 Dove Ave, Cleveland, Oh, 44105 (2 requests)
+40371, Vacant and Distressed Property, July 11, 2024, 11:59AM
+40518, Vacant Property, July 11, 2024, 03:55PM
+
+6014 Belvidere Ave, Cleveland, Oh, 44103 (2 requests)
+40393, Illegal Dumping, July 11, 2024, 12:32PM
+40459, Vacant and Distressed Property, July 11, 2024, 02:42PM
+
+1012 E 77Th St, Cleveland, Oh, 44103 (2 requests)
+40440, Illegal Dumping, July 11, 2024, 01:57PM
+40450, General Exterior Maintenance/Fence/Outbuildings, July 11, 2024, 02:29PM
+
+3726 W 41St St, Cleveland, Oh, 44109 (2 requests)
+40553, Waste Cart Concerns, July 11, 2024, 04:30PM
+40558, Waste Cart Concerns, July 11, 2024, 04:32PM
+
+4222 E 128Th St, Cleveland, Oh, 44105 (2 requests)
+40699, Spills-Trash in Street or Treelawn, July 11, 2024, 09:06PM
+41372, Large Set Out or Eviction, July 14, 2024, 08:08PM
+
+9908 Dunlap Ave, Cleveland, Oh, 44105 (2 requests)
+40858, General Exterior Maintenance/Fence/Outbuildings, July 12, 2024, 10:04AM
+40864, Tree Service, July 12, 2024, 10:08AM
+
+3340 W 98Th St, Cleveland, Oh, 44102 (2 requests)
+41013, Missed Refuse pick up, July 12, 2024, 01:15PM
+41484, Waste Cart Concerns, July 15, 2024, 09:12AM
+
+8216 Rosewood Ave, Cleveland, Oh, 44105 (2 requests)
+41125, Waste Cart Concerns, July 12, 2024, 04:02PM
+41129, Waste Cart Concerns, July 12, 2024, 04:03PM
+
+12509 Crennell Ave, Cleveland, Oh, 44105 (2 requests)
+41237, Vacant and Distressed Property, July 13, 2024, 10:51AM
+41560, Vacant Property Open to Entry, July 15, 2024, 10:43AM
+
+15803 Delrey Ave, Cleveland, Oh, 44128 (2 requests)
+41302, Vacant Property Open to Entry, July 14, 2024, 08:54AM
+44112, Vacant Property Open to Entry, July 21, 2024, 11:58PM
+
+12203 Benham Ave, Cleveland, Oh, 44105 (2 requests)
+41433, Dead Animal Pickup, July 15, 2024, 07:12AM
+42142, Dead Animal Pickup, July 16, 2024, 10:10AM
+
+2989 E 65Th St, Cleveland, Oh, 44127 (2 requests)
+41438, Missed Refuse pick up, July 15, 2024, 07:26AM
+42145, Missed Refuse pick up, July 16, 2024, 10:13AM
+
+3943 W 160Th St, Cleveland, Oh, 44111 (2 requests)
+41495, Waste Cart Concerns, July 15, 2024, 09:21AM
+41498, Waste Cart Concerns, July 15, 2024, 09:23AM
+
+2038 W 100Th St, Cleveland, Oh, 44102 (2 requests)
+41545, Dead Animal Pickup, July 15, 2024, 10:19AM
+41551, General Exterior Maintenance/Fence/Outbuildings, July 15, 2024, 10:26AM
+
+3048 St Clair Ave, Cleveland, Oh, 44114 (2 requests)
+41590, Vacant Property, July 15, 2024, 11:06AM
+41591, Vacant and Distressed Property, July 15, 2024, 11:08AM
+
+6606 Charter Ave, Cleveland, Oh, 44127 (2 requests)
+41612, Waste Cart Concerns, July 15, 2024, 11:36AM
+41616, Waste Cart Concerns, July 15, 2024, 11:39AM
+
+11021 Detroit Ave, Cleveland, Oh, 44102 (2 requests)
+41620, Cart Pick Up, July 15, 2024, 11:41AM
+44735, Tire Pick up, July 23, 2024, 08:49AM
+
+1065 E 174Th St, Cleveland, Oh, 44119 (2 requests)
+41665, Cart Pick Up, July 15, 2024, 12:44PM
+41668, Waste Cart Concerns, July 15, 2024, 12:45PM
+
+1797 W 54Th St, Cleveland, Oh, 44102 (2 requests)
+41696, No Permit, July 15, 2024, 01:20PM
+41705, General Exterior Maintenance/Fence/Outbuildings, July 15, 2024, 01:29PM
+
+10325 Bernard Ave, Cleveland, Oh, 44111 (2 requests)
+41718, Waste Cart Concerns, July 15, 2024, 01:41PM
+41720, Waste Cart Concerns, July 15, 2024, 01:42PM
+
+16812 Fairfax Ave, Cleveland, Oh, 44128 (2 requests)
+41726, Tree Service, July 15, 2024, 01:52PM
+44976, Tree Service, July 23, 2024, 02:09PM
+
+3653 E 154Th St, Cleveland, Oh, 44120 (2 requests)
+41766, Vacant and Distressed Property, July 15, 2024, 02:24PM
+41770, Vacant Property Open to Entry, July 15, 2024, 02:26PM
+
+10703 Grantwood Ave, Cleveland, Oh, 44108 (2 requests)
+41778, Vacant Property, July 15, 2024, 02:35PM
+41780, Vacant Property, July 15, 2024, 02:36PM
+
+678 E 96Th St, Cleveland, Oh, 44108 (2 requests)
+41785, Waste Cart Concerns, July 15, 2024, 02:39PM
+41786, Waste Cart Concerns, July 15, 2024, 02:40PM
+
+3603 E 81St St, Cleveland, Oh, 44105 (2 requests)
+41797, Waste Cart Concerns, July 15, 2024, 02:53PM
+41800, Waste Cart Concerns, July 15, 2024, 02:55PM
+
+15503 Huntmere Ave, Cleveland, Oh, 44110 (2 requests)
+41837, Vacant Property, July 15, 2024, 03:33PM
+41909, Tree Service, July 15, 2024, 04:38PM
+
+16318 S Lotus Dr, Cleveland, Oh, 44128 (2 requests)
+41903, Missed Refuse pick up, July 15, 2024, 04:36PM
+41940, Missed Refuse pick up, July 15, 2024, 06:37PM
+
+15710 Holmes Ave, Cleveland, Oh, 44110 (2 requests)
+41952, Missed Refuse pick up, July 15, 2024, 07:49PM
+42435, Missed Refuse pick up, July 16, 2024, 04:13PM
+
+6207 Hosmer Ave, Cleveland, Oh, 44105 (2 requests)
+41966, New Public Street Receptacle, July 15, 2024, 09:15PM
+42446, Waste Cart Concerns, July 16, 2024, 04:23PM
+
+919 E 139Th St, Cleveland, Oh, 44110 (2 requests)
+42030, Vacant Property, July 16, 2024, 07:27AM
+42918, Illegal Dumping, July 17, 2024, 02:10PM
+
+4125 W 158Th St, Cleveland, Oh, 44135 (2 requests)
+42122, Fallen or Hanging Branch, July 16, 2024, 09:55AM
+42671, Fallen or Hanging Branch, July 17, 2024, 10:07AM
+
+4124 Trowbridge Ave, Cleveland, Oh, 44109 (2 requests)
+42125, Vacant Property, July 16, 2024, 09:56AM
+45062, Vacant Property, July 23, 2024, 04:35PM
+
+1178 E 167Th St, Cleveland, Oh, 44110 (2 requests)
+42165, Vacant Property, July 16, 2024, 10:25AM
+42182, Tree Service, July 16, 2024, 10:40AM
+
+2174 Fulton Rd, Cleveland, Oh, 44113 (2 requests)
+42252, Waste Cart Concerns, July 16, 2024, 12:05PM
+43136, Waste Cart Concerns, July 18, 2024, 06:02AM
+
+12410 Marston Ave, Cleveland, Oh, 44105 (2 requests)
+42257, Cart Pick Up, July 16, 2024, 12:11PM
+42258, Waste Cart Concerns, July 16, 2024, 12:11PM
+
+14107 Tuckahoe Ave, Cleveland, Oh, 44111 (2 requests)
+42277, Waste Cart Concerns, July 16, 2024, 12:33PM
+42286, Missing Recycling Welcome Packet, July 16, 2024, 12:39PM
+
+12316 Gay Ave, Cleveland, Oh, 44105 (2 requests)
+42306, Illegal Dumping, July 16, 2024, 01:04PM
+42308, General Exterior Maintenance/Fence/Outbuildings, July 16, 2024, 01:07PM
+
+15618 Margate Ave, Cleveland, Oh, 44135 (2 requests)
+42507, New Public Street Receptacle, July 16, 2024, 07:52PM
+44610, Waste Cart Concerns, July 22, 2024, 05:09PM
+
+3280 E 135Th St, Cleveland, Oh, 44120 (2 requests)
+42622, Waste Cart Concerns, July 17, 2024, 09:17AM
+42625, Waste Cart Concerns, July 17, 2024, 09:18AM
+
+14016 Glenside Rd, Cleveland, Oh, 44110 (2 requests)
+42679, Missed Refuse pick up, July 17, 2024, 10:14AM
+42691, Waste Cart Concerns, July 17, 2024, 10:19AM
+
+13801 Caine Ave, Cleveland, Oh, 44105 (2 requests)
+42703, Vacant Property Open to Entry, July 17, 2024, 10:31AM
+42706, Vacant Property, July 17, 2024, 10:33AM
+
+3320 W 97Th St, Cleveland, Oh, 44102 (2 requests)
+42743, Waste Cart Concerns, July 17, 2024, 10:58AM
+42755, Recycling Opt-in Program, July 17, 2024, 11:04AM
+
+3744 W 36Th St, Cleveland, Oh, 44109 (2 requests)
+42762, Waste Cart Concerns, July 17, 2024, 11:08AM
+45478, Waste Cart Concerns, July 24, 2024, 03:05PM
+
+2022 W 104Th St, Cleveland, Oh, 44102 (2 requests)
+42803, Vacant Property Open to Entry, July 17, 2024, 11:35AM
+42807, Vacant Property, July 17, 2024, 11:36AM
+
+3274 W 128Th St, Cleveland, Oh, 44111 (2 requests)
+42893, Missed Refuse pick up, July 17, 2024, 01:08PM
+45421, Missed Refuse pick up, July 24, 2024, 01:23PM
+
+4181 W 50Th St, Cleveland, Oh, 44144 (2 requests)
+42934, Waste Cart Concerns, July 17, 2024, 02:30PM
+42935, Missing Recycling Welcome Packet, July 17, 2024, 02:32PM
+
+4615 Henritze Ave, Cleveland, Oh, 44109 (2 requests)
+42983, No Water/No Hot Water, July 17, 2024, 03:14PM
+42988, General Exterior Maintenance/Fence/Outbuildings, July 17, 2024, 03:17PM
+
+7120 Clark Ave, Cleveland, Oh, 44102 (2 requests)
+43013, Waste Cart Concerns, July 17, 2024, 03:53PM
+43018, Waste Cart Concerns, July 17, 2024, 03:57PM
+
+7122 Clark Ave, Cleveland, Oh, 44102 (2 requests)
+43015, Waste Cart Concerns, July 17, 2024, 03:54PM
+43060, General Exterior Maintenance/Fence/Outbuildings, July 17, 2024, 04:45PM
+
+1381 W 83Rd St, Cleveland, Oh, 44102 (2 requests)
+43065, General Exterior Maintenance/Fence/Outbuildings, July 17, 2024, 05:02PM
+43067, Vacant Property Open to Entry, July 17, 2024, 05:04PM
+
+16322 Westview Ave, Cleveland, Oh, 44128 (2 requests)
+43134, Waste Cart Concerns, July 18, 2024, 05:56AM
+44713, Missed Refuse pick up, July 23, 2024, 08:32AM
+
+4216 Buechner Ave, Cleveland, Oh, 44109 (2 requests)
+43174, General Exterior Maintenance/Fence/Outbuildings, July 18, 2024, 08:46AM
+43176, Vacant Property, July 18, 2024, 08:46AM
+
+2179 W 11Th St, Cleveland, Oh, 44113 (2 requests)
+43201, No Permit, July 18, 2024, 09:12AM
+44374, No Permit, July 22, 2024, 12:06PM
+
+1882 E 66Th St, Cleveland, Oh, 44103 (2 requests)
+43240, Waste Cart Concerns, July 18, 2024, 10:13AM
+43241, Waste Cart Concerns, July 18, 2024, 10:14AM
+
+3360 W 129Th St, Cleveland, Oh, 44111 (2 requests)
+43280, Missed Refuse pick up, July 18, 2024, 11:11AM
+43559, Missed Refuse pick up, July 18, 2024, 06:27PM
+
+18807 Golf View Dr, Cleveland, Oh, 44135 (2 requests)
+43400, Tree Service, July 18, 2024, 01:54PM
+43401, Tree Service, July 18, 2024, 02:00PM
+
+1934 Treadway Ave, Cleveland, Oh, 44109 (2 requests)
+43426, Waste Cart Concerns, July 18, 2024, 02:17PM
+43428, Missed Refuse pick up, July 18, 2024, 02:18PM
+
+3383 E 140Th St, Cleveland, Oh, 44120 (2 requests)
+43464, Vacant Property, July 18, 2024, 02:44PM
+43465, Vacant Property, July 18, 2024, 02:44PM
+
+2917 E 104Th St, Cleveland, Oh, 44104 (2 requests)
+43473, Dead Animal Pickup, July 18, 2024, 02:54PM
+43478, Cart Pick Up, July 18, 2024, 02:56PM
+
+13701 Othello Ave, Cleveland, Oh, 44110 (2 requests)
+43501, Waste Cart Concerns, July 18, 2024, 03:36PM
+43503, Waste Cart Concerns, July 18, 2024, 03:37PM
+
+3455 W 44Th St, Cleveland, Oh, 44109 (2 requests)
+43518, Vacant Property, July 18, 2024, 04:04PM
+43522, General Exterior Maintenance/Fence/Outbuildings, July 18, 2024, 04:08PM
+
+3466 W 63Rd St, Cleveland, Oh, 44102 (2 requests)
+43525, Vacant Property Open to Entry, July 18, 2024, 04:14PM
+43529, General Exterior Maintenance/Fence/Outbuildings, July 18, 2024, 04:18PM
+
+3901 E 188Th St, Cleveland, Oh, 44122 (2 requests)
+43561, Dead Animal Pickup, July 18, 2024, 06:31PM
+45056, Dead Animal Pickup, July 23, 2024, 04:22PM
+
+2441 Thurman St, Cleveland, Oh, 44113 (2 requests)
+43688, Missing Recycling Welcome Packet, July 19, 2024, 09:04AM
+45331, Waste Cart Concerns, July 24, 2024, 11:15AM
+
+728 E 93Rd St, Cleveland, Oh, 44108 (2 requests)
+43718, Waste Cart Concerns, July 19, 2024, 09:47AM
+43719, Waste Cart Concerns, July 19, 2024, 09:48AM
+
+4361 E 142Nd St, Cleveland, Oh, 44128 (2 requests)
+43756, Waste Cart Concerns, July 19, 2024, 11:27AM
+43757, Waste Cart Concerns, July 19, 2024, 11:28AM
+
+3226 W 56Th St, Cleveland, Oh, 44102 (2 requests)
+43809, General Exterior Maintenance/Fence/Outbuildings, July 19, 2024, 12:24PM
+43811, Early Set Out-Carts Left Out After Collection, July 19, 2024, 12:25PM
+
+3819 W 116Th St, Cleveland, Oh, 44111 (2 requests)
+43825, Waste Cart Concerns, July 19, 2024, 12:50PM
+43830, Waste Cart Concerns, July 19, 2024, 12:55PM
+
+747 E 117Th St, Cleveland, Oh, 44108 (2 requests)
+43826, Waste Cart Concerns, July 19, 2024, 12:51PM
+43827, Waste Cart Concerns, July 19, 2024, 12:53PM
+
+2487 Greenvale Rd, Cleveland, Oh, 44121 (2 requests)
+43859, General Exterior Maintenance/Fence/Outbuildings, July 19, 2024, 01:55PM
+43860, Vacant Property Open to Entry, July 19, 2024, 01:59PM
+
+3243 E 55Th St, Cleveland, Oh, 44127 (2 requests)
+43873, Illegal Use of Property, July 19, 2024, 02:48PM
+43900, Vacant Property Open to Entry, July 19, 2024, 03:26PM
+
+15510 Delrey Ave, Cleveland, Oh, 44128 (2 requests)
+43930, Vacant Property Open to Entry, July 19, 2024, 05:01PM
+43936, Vacant Property Open to Entry, July 19, 2024, 05:51PM
+
+9524 Parkview Ave, Cleveland, Oh, 44104 (2 requests)
+44059, Plumbing Concern, July 21, 2024, 11:17AM
+45581, Waste Cart Concerns, July 25, 2024, 02:42AM
+
+3519 E 104Th St, Cleveland, Oh, 44105 (2 requests)
+44195, Vacant Property Open to Entry, July 22, 2024, 08:57AM
+44196, Vacant and Distressed Property, July 22, 2024, 08:59AM
+
+3605 E 153Rd St, Cleveland, Oh, 44120 (2 requests)
+44232, Waste Cart Concerns, July 22, 2024, 09:46AM
+44234, Cart Pick Up, July 22, 2024, 09:47AM
+
+11218 Dale Ave, Cleveland, Oh, 44111 (2 requests)
+44276, Waste Cart Concerns, July 22, 2024, 10:18AM
+44277, Waste Cart Concerns, July 22, 2024, 10:19AM
+
+1095 Addison Rd, Cleveland, Oh, 44103 (2 requests)
+44285, Vacant Property, July 22, 2024, 10:29AM
+44288, General Exterior Maintenance/Fence/Outbuildings, July 22, 2024, 10:31AM
+
+4925 Mead Ave, Cleveland, Oh, 44127 (2 requests)
+44300, Vacant Property Open to Entry, July 22, 2024, 10:45AM
+45084, Vacant Property Open to Entry, July 23, 2024, 05:33PM
+
+2326 E 89Th St, Cleveland, Oh, 44106 (2 requests)
+44317, Waste Cart Concerns, July 22, 2024, 11:02AM
+44322, Missing Recycling Welcome Packet, July 22, 2024, 11:04AM
+
+1083 E 97Th St, Cleveland, Oh, 44108 (2 requests)
+44323, Waste Cart Concerns, July 22, 2024, 11:05AM
+44326, Waste Cart Concerns, July 22, 2024, 11:06AM
+
+4350 Rocky River Dr, Cleveland, Oh, 44135 (2 requests)
+44328, Waste Cart Concerns, July 22, 2024, 11:09AM
+44330, Waste Cart Concerns, July 22, 2024, 11:10AM
+
+4533 W 156Th St, Cleveland, Oh, 44135 (2 requests)
+44341, Waste Cart Concerns, July 22, 2024, 11:20AM
+44343, Waste Cart Concerns, July 22, 2024, 11:21AM
+
+19403 Cyclone Dr, Cleveland, Oh, 44135 (2 requests)
+44366, Waste Cart Concerns, July 22, 2024, 11:53AM
+44367, Missing Recycling Welcome Packet, July 22, 2024, 11:54AM
+
+4497 W 146Th St, Cleveland, Oh, 44135 (2 requests)
+44391, Waste Cart Concerns, July 22, 2024, 12:23PM
+44393, Missing Recycling Welcome Packet, July 22, 2024, 12:24PM
+
+3612 Archwood Ave, Cleveland, Oh, 44109 (2 requests)
+44425, Vacant Property Open to Entry, July 22, 2024, 01:11PM
+45255, Vacant Property Open to Entry, July 24, 2024, 10:23AM
+
+3637 E 146Th St, Cleveland, Oh, 44120 (2 requests)
+44448, Waste Cart Concerns, July 22, 2024, 01:35PM
+44449, Scheduled Bulk Pick up, July 22, 2024, 01:36PM
+
+4607 E 175Th St, Cleveland, Oh, 44128 (2 requests)
+44508, Waste Cart Concerns, July 22, 2024, 02:53PM
+44511, Waste Cart Concerns, July 22, 2024, 02:54PM
+
+1394 E 115Th St, Cleveland, Oh, 44106 (2 requests)
+44513, Waste Cart Concerns, July 22, 2024, 02:59PM
+44514, Waste Cart Concerns, July 22, 2024, 03:00PM
+
+1837 W 52Nd St, Cleveland, Oh, 44102 (2 requests)
+44532, Waste Cart Concerns, July 22, 2024, 03:23PM
+44535, Waste Cart Concerns, July 22, 2024, 03:26PM
+
+3573 W 120Th St, Cleveland, Oh, 44111 (2 requests)
+44552, Vacant Property, July 22, 2024, 03:59PM
+44556, General Exterior Maintenance/Fence/Outbuildings, July 22, 2024, 04:03PM
+
+6515 Bridge Ave, Cleveland, Oh, 44102 (2 requests)
+44589, Waste Cart Concerns, July 22, 2024, 04:32PM
+44603, Recycling Opt-in Program, July 22, 2024, 04:51PM
+
+15336 Lakeshore Blvd, Cleveland, Oh, 44110 (2 requests)
+44697, Missed Refuse pick up, July 23, 2024, 08:16AM
+45026, Missed Refuse pick up, July 23, 2024, 03:30PM
+
+7812 New York Ave, Cleveland, Oh, 44105 (2 requests)
+44783, Waste Cart Concerns, July 23, 2024, 09:53AM
+44786, Waste Cart Concerns, July 23, 2024, 09:54AM
+
+3046 W 110Th St, Cleveland, Oh, 44111 (2 requests)
+44785, Waste Cart Concerns, July 23, 2024, 09:53AM
+44790, Waste Cart Concerns, July 23, 2024, 09:56AM
+
+9909 Mount Auburn Ave, Cleveland, Oh, 44104 (2 requests)
+44807, Vacant Property, July 23, 2024, 10:08AM
+44808, Vacant and Distressed Property, July 23, 2024, 10:09AM
+
+13516 Leroy Ave, Cleveland, Oh, 44135 (2 requests)
+44867, Waste Cart Concerns, July 23, 2024, 11:37AM
+44868, Missing Recycling Welcome Packet, July 23, 2024, 11:37AM
+
+9605 Thorn Ave, Cleveland, Oh, 44108 (2 requests)
+44875, Vacant Property, July 23, 2024, 11:55AM
+44876, Vacant and Distressed Property, July 23, 2024, 11:58AM
+
+8919 Beckman Ave, Cleveland, Oh, 44104 (2 requests)
+44921, Vacant Property, July 23, 2024, 01:10PM
+44923, Tree Service, July 23, 2024, 01:10PM
+
+3137 Sackett Ave, Cleveland, Oh, 44109 (2 requests)
+44920, Graffiti Removal, July 23, 2024, 01:09PM
+44927, Vacant Property, July 23, 2024, 01:13PM
+
+3126 W 84Th St, Cleveland, Oh, 44102 (2 requests)
+44931, Waste Cart Concerns, July 23, 2024, 01:16PM
+44933, Missing Recycling Welcome Packet, July 23, 2024, 01:18PM
+
+3709 Trowbridge Ave, Cleveland, Oh, 44109 (2 requests)
+44950, Waste Cart Concerns, July 23, 2024, 01:37PM
+44951, Waste Cart Concerns, July 23, 2024, 01:37PM
+
+1639 E 93Rd St, Cleveland, Oh, 44106 (2 requests)
+44980, Vacant and Distressed Property, July 23, 2024, 02:14PM
+44984, Vacant Property, July 23, 2024, 02:24PM
+
+3348 W 44Th St, Cleveland, Oh, 44109 (2 requests)
+45042, Waste Cart Concerns, July 23, 2024, 04:01PM
+45044, Missing Recycling Welcome Packet, July 23, 2024, 04:03PM
+
+11014 Greenwich Ave, Cleveland, Oh, 44105 (2 requests)
+45145, Dead Animal Pickup, July 24, 2024, 06:59AM
+45147, Vacant Property, July 24, 2024, 07:01AM
+
+9724 Denison Ave, Cleveland, Oh, 44102 (2 requests)
+45187, Missed Refuse pick up, July 24, 2024, 08:49AM
+45192, Waste Cart Concerns, July 24, 2024, 08:54AM
+
+14422 Alger Rd, Cleveland, Oh, 44111 (2 requests)
+45198, Waste Cart Concerns, July 24, 2024, 08:58AM
+45201, Cart Pick Up, July 24, 2024, 09:04AM
+
+11114 Woodland Ave, Cleveland, Oh, 44104 (2 requests)
+45207, Waste Cart Concerns, July 24, 2024, 09:12AM
+45208, Waste Cart Concerns, July 24, 2024, 09:13AM
+
+18914 Harvard Ave, Cleveland, Oh, 44122 (2 requests)
+45236, Waste Cart Concerns, July 24, 2024, 09:57AM
+45238, Cart Pick Up, July 24, 2024, 09:58AM
+
+11805 Euclid Ave, Cleveland, Oh, 44106 (2 requests)
+45252, Missed Refuse pick up, July 24, 2024, 10:22AM
+45304, Waste Cart Concerns, July 24, 2024, 10:59AM
+
+10609 Almira Ave, Cleveland, Oh, 44111 (2 requests)
+45275, Waste Cart Concerns, July 24, 2024, 10:38AM
+45276, Missing Recycling Welcome Packet, July 24, 2024, 10:39AM
+
+3682 W 130Th St, Cleveland, Oh, 44111 (2 requests)
+45277, Vacant Property Open to Entry, July 24, 2024, 10:40AM
+45284, Vacant Property, July 24, 2024, 10:47AM
+
+4180 W 57Th St, Cleveland, Oh, 44144 (2 requests)
+45292, Vacant and Distressed Property, July 24, 2024, 10:53AM
+45306, Vacant Property, July 24, 2024, 10:59AM
+
+1270 E 58Th St, Cleveland, Oh, 44103 (2 requests)
+45296, Vacant Property, July 24, 2024, 10:55AM
+45308, General Exterior Maintenance/Fence/Outbuildings, July 24, 2024, 11:00AM
+
+10608 Dale Ave, Cleveland, Oh, 44111 (2 requests)
+45314, Waste Cart Concerns, July 24, 2024, 11:04AM
+45319, Waste Cart Concerns, July 24, 2024, 11:06AM
+
+16306 Invermere Ave, Cleveland, Oh, 44128 (2 requests)
+45322, Fallen or Hanging Branch, July 24, 2024, 11:08AM
+45868, Fallen or Hanging Branch, July 25, 2024, 12:16PM
+
+3346 W 97Th St, Cleveland, Oh, 44102 (2 requests)
+45333, Waste Cart Concerns, July 24, 2024, 11:17AM
+45336, Waste Cart Concerns, July 24, 2024, 11:18AM
+
+3188 W 116Th St, Cleveland, Oh, 44111 (2 requests)
+45358, Waste Cart Concerns, July 24, 2024, 11:36AM
+45360, Missing Recycling Welcome Packet, July 24, 2024, 11:38AM
+
+4066 E 175Th St, Cleveland, Oh, 44128 (2 requests)
+45438, Vacant Property, July 24, 2024, 01:47PM
+45439, Vacant and Distressed Property, July 24, 2024, 01:48PM
+
+9724 Hilgert Dr, Cleveland, Oh, 44104 (2 requests)
+45471, Waste Cart Concerns, July 24, 2024, 02:59PM
+45472, Waste Cart Concerns, July 24, 2024, 03:00PM
+
+11517 Whitmore Ave, Cleveland, Oh, 44108 (2 requests)
+45510, Parks Maintenance, July 24, 2024, 04:07PM
+45516, Fallen Trees, July 24, 2024, 04:12PM
+
+13814 Lyric Ave, Cleveland, Oh, 44111 (2 requests)
+45531, Waste Cart Concerns, July 24, 2024, 04:47PM
+45535, Recycling Opt-in Program, July 24, 2024, 04:50PM
+
+6605 Hoppensack Ave, Cleveland, Oh, 44127 (2 requests)
+45533, Vacant Property Open to Entry, July 24, 2024, 04:47PM
+45548, Cart Pick Up, July 24, 2024, 05:17PM
+
+3732 W 33Rd St, Cleveland, Oh, 44109 (2 requests)
+45674, Waste Cart Concerns, July 25, 2024, 08:59AM
+45676, Waste Cart Concerns, July 25, 2024, 09:00AM
+
+2608 Colburn Ave, Cleveland, Oh, 44109 (2 requests)
+45702, Waste Cart Concerns, July 25, 2024, 09:36AM
+45703, Cart Pick Up, July 25, 2024, 09:38AM
+
+3341 E 113Th St, Cleveland, Oh, 44104 (2 requests)
+45730, Waste Cart Concerns, July 25, 2024, 10:00AM
+45732, Waste Cart Concerns, July 25, 2024, 10:02AM
+
+6714 Lawn Ave, Cleveland, Oh, 44102 (2 requests)
+45749, Waste Cart Concerns, July 25, 2024, 10:27AM
+45751, Waste Cart Concerns, July 25, 2024, 10:28AM
+
+7024 Morgan Ave, Cleveland, Oh, 44127 (2 requests)
+45795, Waste Cart Concerns, July 25, 2024, 11:17AM
+45800, Waste Cart Concerns, July 25, 2024, 11:18AM
+
+10816 Flower Ave, Cleveland, Oh, 44111 (2 requests)
+45852, Waste Cart Concerns, July 25, 2024, 12:04PM
+45855, Waste Cart Concerns, July 25, 2024, 12:06PM
+
+11008 Gay Ave, Cleveland, Oh, 44105 (2 requests)
+45866, Missed Refuse pick up, July 25, 2024, 12:15PM
+45869, Waste Cart Concerns, July 25, 2024, 12:16PM
+
+13113 Benwood Ave, Cleveland, Oh, 44105 (2 requests)
+45879, Waste Cart Concerns, July 25, 2024, 12:25PM
+45882, Waste Cart Concerns, July 25, 2024, 12:26PM
+
+539 E 115Th St, Cleveland, Oh, 44108 (2 requests)
+45884, Waste Cart Concerns, July 25, 2024, 12:27PM
+45887, Waste Cart Concerns, July 25, 2024, 12:28PM
+

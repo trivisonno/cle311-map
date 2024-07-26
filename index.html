@@ -13,8 +13,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.2/sql-wasm.js"></script>
 
 <!-- Load Esri Leaflet from CDN -->
-<script src="https://unpkg.com/esri-leaflet@^3.0.9/dist/esri-leaflet.js"></script>
-<script src="https://unpkg.com/esri-leaflet-vector@4.0.0/dist/esri-leaflet-vector.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/esri-leaflet/3.1.0/esri-leaflet.min.js"></script>
+<!-- <script src="https://unpkg.com/esri-leaflet-vector@4.0.0/dist/esri-leaflet-vector.js"></script> -->
     <style>
         #map { height: 500px; }
     </style>
@@ -58,7 +58,7 @@
 			url: 'https://gis.cuyahogacounty.us/server/rest/services/IMAGERY/2022_Fall_Aerial/MapServer/',
 			zoomOffset: -10,
 			maxZoom: 21,
-	});
+	    });
 
         // Add default tile layer (OpenStreetMap)
         osmLayer.addTo(map);
